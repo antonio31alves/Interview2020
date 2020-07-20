@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tillo Technical Test - JavaScript Task 1</title>
+    <link rel="stylesheet" href="https://unpkg.com/tailwindcss@1.4.6/dist/base.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/tailwindcss@1.4.6/dist/components.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/@tailwindcss/typography@0.1.2/dist/typography.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/tailwindcss@1.4.6/dist/utilities.min.css">
+</head>
+<body>
+<div class="container mx-auto mt-10 px-4">
+    <div class="prose prose-sm sm:prose lg:prose-lg xl:prose-xl mb-4 lg:mb-8">
+        <h1>Tillo Technical Test</h1>
+        <h2>JavaScript Task 1 - Fixing bugs and adding features</h2>
+        <h3>Task</h3>
+        <ul>
+            <li>Rather than having three separate buttons, programatically create a button for each element in the array of prizes.</li>
+            <li>The text of each button should be the prize itself, not "Button ###".</li>
+            <li>When you click a button, you should see an alert that says "You've won ###!" where ### is the prize.</li>
+            <li>Add two more items to the array of prizes.</li>
+        </ul>
+        <h3>Rules</h3>
+        <ul>
+            <li>Edit this file directly.</li>
+            <li>Add two new items to the array of prizes so there should be five buttons visible when you've completed the task.</li>
+        </ul>
+        <h3>Answer</h3>
+    </div>
+    <div id="answer">
+        <button class="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded" id="btn-0">Button 1</button>
+        <button class="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded" id="btn-1">Button 2</button>
+        <button class="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded" id="btn-2">Button 3</button>
+    </div>
+</div>
+<div class="bg-white border-t border-gray-300 container mx-auto mt-8 py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
+    <div class="mt-8 md:mt-0 md:order-1">
+        <p class="text-center text-base leading-6 text-gray-400">
+            &copy; 2020 Tillo. All rights reserved.
+        </p>
+    </div>
+</div>
+<script type="text/javascript">
+var prizes = ['A stuffed toy', 'An iPad', '£1000 cash'];
+for (var btnNum = 0; btnNum < prizes.length; btnNum++) {
+    // for each of our buttons, when the user clicks it...
+    document.getElementById('btn-' + btnNum).onclick = function() {
+        // tell her what she's won!
+        alert(prizes[btnNum]);
+    };
+}
+</script>
+</body>
+</html>

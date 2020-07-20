@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tillo Technical Test - JavaScript Task 3</title>
+    <link rel="stylesheet" href="https://unpkg.com/tailwindcss@1.4.6/dist/base.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/tailwindcss@1.4.6/dist/components.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/@tailwindcss/typography@0.1.2/dist/typography.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/tailwindcss@1.4.6/dist/utilities.min.css">
+</head>
+<body>
+<div class="container mx-auto mt-10 px-4">
+    <div class="prose prose-sm sm:prose lg:prose-lg xl:prose-xl mb-4 lg:mb-8">
+        <h1>Tillo Technical Test</h1>
+        <h2>JavaScript Task 3 - Working with data</h2>
+        <h3>Task</h3>
+        <ul>
+            <li>Using XMLHttpRequest, jQuery, Axios, or the new Fetch API, fetch the orders data from this file: <a href="https://raw.githubusercontent.com/TilloTech/Interview2020/master/data/orders.json">https://raw.githubusercontent.com/TilloTech/Interview2020/master/data/orders.json</a></li>
+            <li>Display the results in a table.</li>
+            <li>Bonus: Use the tablesorter jQuery plugin to make the table sortable by the customer's name with some indication as to whether it's in ascending or descending order.</li>
+        </ul>
+        <h3>Rules</h3>
+        <ul>
+            <li>Edit this file directly.</li>
+            <li>When you click the Run button:
+                <ol>
+                    <li>Programatically generate a table and add it as a child to the div with the ID "answer".</li>
+                    <li>For each order, create a row in the table with the order reference (UUID), price with currency symbol, customer's full name, customer's email address, and the a link to the URL with the Order ID as the link text.</li>
+                    <li>E.g. Using the first three orders from the file, it should look like the table below.</li>
+                </ol>
+            </li>
+        </ul>
+        <table>
+            <caption>Example</caption>
+            <thead>
+                <tr>
+                    <th>Order Reference</th>
+                    <th>Price</th>
+                    <th>Customer Name</th>
+                    <th>Email Address</th>
+                    <th>URL</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>30906bb3-ff12-4517-a9ea-71bb2ed79c0e</td>
+                    <td>$0.33</td>
+                    <td>Ingrid Rios</td>
+                    <td>ingrid.rios@example.com</td>
+                    <td><a href="https://example.com/products/5889b0a6797714883c501c23">5889b0a6797714883c501c23</a></td>
+                </tr>
+                <tr>
+                    <td>08274ee9-72e0-4a3f-a9dd-3507e87c7430</td>
+                    <td>£2.96</td>
+                    <td>Elaine Velazquez</td>
+                    <td>elaine.velazquez@example.com</td>
+                    <td><a href="https://example.com/products/5889b0a6664152cb6bccad04">5889b0a6664152cb6bccad04</a></td>
+                </tr>
+                <tr>
+                    <td>3c3851a6-c0c2-4ea3-bfe6-ba71ba17ea00</td>
+                    <td>£6.96</td>
+                    <td>Donovan Cherry</td>
+                    <td>donovan.cherry@example.com</td>
+                    <td><a href="https://example.com/products/5889b0a66887433ae171fa7a">5889b0a66887433ae171fa7a</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Answer</h3>
+    </div>
+    <div>
+        <button class="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded" id="btn-run">Run</button>  
+        <div id="answer"></div>
+    </div>
+</div>
+<div class="bg-white border-t border-gray-300 container mx-auto mt-8 py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
+    <div class="mt-8 md:mt-0 md:order-1">
+        <p class="text-center text-base leading-6 text-gray-400">
+            &copy; 2020 Tillo. All rights reserved.
+        </p>
+    </div>
+</div>
+<script>
+function run() {
+  // Put your code here
+}
+document.getElementById('btn-run').onclick = function() {
+    run()
+};
+</script>
+</body>
+</html>

@@ -29,7 +29,7 @@
         },
         "currency": "USD",
         "price": "0.33",
-        "url": "https://reward.cloud/products/5889b0a6797714883c501c23",
+        "url": "https://example.com/products/5889b0a6797714883c501c23",
         "index": 13,
         "uuid": "30906bb3-ff12-4517-a9ea-71bb2ed79c0e",
         "id": "5889b0a6797714883c501c23"
@@ -64,7 +64,7 @@
         },
         "currency": "GBP",
         "price": "2.96",
-        "url": "https://reward.cloud/products/5889b0a6664152cb6bccad04",
+        "url": "https://example.com/products/5889b0a6664152cb6bccad04",
         "index": 14,
         "uuid": "08274ee9-72e0-4a3f-a9dd-3507e87c7430",
         "id": "5889b0a6664152cb6bccad04"
@@ -99,7 +99,7 @@
         },
         "currency": "GBP",
         "price": "6.96",
-        "url": "https://reward.cloud/products/5889b0a66887433ae171fa7a",
+        "url": "https://example.com/products/5889b0a66887433ae171fa7a",
         "index": 15,
         "uuid": "3c3851a6-c0c2-4ea3-bfe6-ba71ba17ea00",
         "id": "5889b0a66887433ae171fa7a"
@@ -134,7 +134,7 @@
         },
         "currency": "GBP",
         "price": "9.78",
-        "url": "https://reward.cloud/products/5889b0a695fc00820b1d409a",
+        "url": "https://example.com/products/5889b0a695fc00820b1d409a",
         "index": 16,
         "uuid": "1c206197-fe43-41aa-99cc-e4cc6de9af78",
         "id": "5889b0a695fc00820b1d409a"
@@ -169,7 +169,7 @@
         },
         "currency": "USD",
         "price": "7.92",
-        "url": "https://reward.cloud/products/5889b0a63adcbb9fa75adaf5",
+        "url": "https://example.com/products/5889b0a63adcbb9fa75adaf5",
         "index": 17,
         "uuid": "f11b90c6-b3b1-434c-80b2-58cfe86e0329",
         "id": "5889b0a63adcbb9fa75adaf5"
@@ -204,7 +204,7 @@
         },
         "currency": "EUR",
         "price": "5.76",
-        "url": "https://reward.cloud/products/5889b0a66b0ada66a5975acd",
+        "url": "https://example.com/products/5889b0a66b0ada66a5975acd",
         "index": 18,
         "uuid": "b0af1461-fd4d-47d7-ba69-8d10e6ab9efb",
         "id": "5889b0a66b0ada66a5975acd"
@@ -239,7 +239,7 @@
         },
         "currency": "GBP",
         "price": "9.75",
-        "url": "https://reward.cloud/products/5889b0a61f5c5368069b7109",
+        "url": "https://example.com/products/5889b0a61f5c5368069b7109",
         "index": 19,
         "uuid": "ec538ab4-082a-40c5-9285-a3f1f8cd587e",
         "id": "5889b0a61f5c5368069b7109"
@@ -274,7 +274,7 @@
         },
         "currency": "GBP",
         "price": "5.98",
-        "url": "https://reward.cloud/products/5889b0a6512e25f2026cee4d",
+        "url": "https://example.com/products/5889b0a6512e25f2026cee4d",
         "index": 20,
         "uuid": "0211f860-e7e2-4baf-b20c-7b757461a27b",
         "id": "5889b0a6512e25f2026cee4d"
@@ -309,7 +309,7 @@
         },
         "currency": "USD",
         "price": "6.24",
-        "url": "https://reward.cloud/products/5889b0a6b0ffb09e08d1985f",
+        "url": "https://example.com/products/5889b0a6b0ffb09e08d1985f",
         "index": 21,
         "uuid": "8fe796c5-7ce3-4d94-88c9-07d039cf94e1",
         "id": "5889b0a6b0ffb09e08d1985f"
@@ -344,7 +344,7 @@
         },
         "currency": "EUR",
         "price": "1.87",
-        "url": "https://reward.cloud/products/5889b0a6f6387c1945562f09",
+        "url": "https://example.com/products/5889b0a6f6387c1945562f09",
         "index": 22,
         "uuid": "3127e94a-e763-4fde-9586-44eb68713f73",
         "id": "5889b0a6f6387c1945562f09"
@@ -379,7 +379,7 @@
         },
         "currency": "EUR",
         "price": "6.91",
-        "url": "https://reward.cloud/products/5889b0a66dcbd38a36d49562",
+        "url": "https://example.com/products/5889b0a66dcbd38a36d49562",
         "index": 23,
         "uuid": "46b4e485-9898-4cf2-bdc7-2bcc92b6f790",
         "id": "5889b0a66dcbd38a36d49562"
@@ -414,7 +414,7 @@
         },
         "currency": "EUR",
         "price": "4.10",
-        "url": "https://reward.cloud/products/5889b0a6e4afa1e7baedf701",
+        "url": "https://example.com/products/5889b0a6e4afa1e7baedf701",
         "index": 24,
         "uuid": "795de367-6645-4e27-9c0c-dc74e9f050c5",
         "id": "5889b0a6e4afa1e7baedf701"
@@ -449,7 +449,7 @@
         },
         "currency": "EUR",
         "price": "8.74",
-        "url": "https://reward.cloud/products/5889b0a6117f7976b338f4a2",
+        "url": "https://example.com/products/5889b0a6117f7976b338f4a2",
         "index": 25,
         "uuid": "14cb871a-9a11-4844-9899-8f427739edcb",
         "id": "5889b0a6117f7976b338f4a2"
@@ -484,7 +484,7 @@
         },
         "currency": "EUR",
         "price": "9.49",
-        "url": "https://reward.cloud/products/5889b0a7dc514bfe53db0cec",
+        "url": "https://example.com/products/5889b0a7dc514bfe53db0cec",
         "index": 26,
         "uuid": "b04c8036-c5da-4173-840b-17ba9dce1604",
         "id": "5889b0a7dc514bfe53db0cec"
@@ -519,7 +519,7 @@
         },
         "currency": "USD",
         "price": "0.79",
-        "url": "https://reward.cloud/products/5889b0a786d3525c7050fc50",
+        "url": "https://example.com/products/5889b0a786d3525c7050fc50",
         "index": 27,
         "uuid": "c048d272-5dc0-487c-ac37-4c7648956cd9",
         "id": "5889b0a786d3525c7050fc50"
@@ -554,7 +554,7 @@
         },
         "currency": "GBP",
         "price": "2.25",
-        "url": "https://reward.cloud/products/5889b0a7648d06b6f8de6c67",
+        "url": "https://example.com/products/5889b0a7648d06b6f8de6c67",
         "index": 28,
         "uuid": "53ca7d6d-2d14-45cc-9468-9e293dd28999",
         "id": "5889b0a7648d06b6f8de6c67"
@@ -589,7 +589,7 @@
         },
         "currency": "USD",
         "price": "1.78",
-        "url": "https://reward.cloud/products/5889b0a71a0b8a71884f729e",
+        "url": "https://example.com/products/5889b0a71a0b8a71884f729e",
         "index": 29,
         "uuid": "712e8a17-5024-4a64-bd06-0af131d6453e",
         "id": "5889b0a71a0b8a71884f729e"
@@ -624,7 +624,7 @@
         },
         "currency": "USD",
         "price": "8.03",
-        "url": "https://reward.cloud/products/5889b0a7c0aa629dac160ac1",
+        "url": "https://example.com/products/5889b0a7c0aa629dac160ac1",
         "index": 30,
         "uuid": "dae84b8c-ff63-4cbc-b077-091da0b57dc2",
         "id": "5889b0a7c0aa629dac160ac1"
@@ -659,7 +659,7 @@
         },
         "currency": "USD",
         "price": "4.25",
-        "url": "https://reward.cloud/products/5889b0a76e15c0309cf4c4b1",
+        "url": "https://example.com/products/5889b0a76e15c0309cf4c4b1",
         "index": 31,
         "uuid": "9515d5fc-ed05-484c-9c29-288d8c288839",
         "id": "5889b0a76e15c0309cf4c4b1"
@@ -694,7 +694,7 @@
         },
         "currency": "USD",
         "price": "3.56",
-        "url": "https://reward.cloud/products/5889b0a7dc1ae5b2bace6e39",
+        "url": "https://example.com/products/5889b0a7dc1ae5b2bace6e39",
         "index": 32,
         "uuid": "e19f9d9a-2183-4ff3-b4cb-d67446b47699",
         "id": "5889b0a7dc1ae5b2bace6e39"
@@ -729,7 +729,7 @@
         },
         "currency": "GBP",
         "price": "6.22",
-        "url": "https://reward.cloud/products/5889b0a73220aeff77af7add",
+        "url": "https://example.com/products/5889b0a73220aeff77af7add",
         "index": 33,
         "uuid": "3344ea4a-4cd7-4357-b53a-078f98f14a6e",
         "id": "5889b0a73220aeff77af7add"
@@ -764,7 +764,7 @@
         },
         "currency": "USD",
         "price": "2.92",
-        "url": "https://reward.cloud/products/5889b0a7231ca6e3a657f196",
+        "url": "https://example.com/products/5889b0a7231ca6e3a657f196",
         "index": 34,
         "uuid": "c0ec6b8c-bc81-46d8-ba58-95d4ed82cbfa",
         "id": "5889b0a7231ca6e3a657f196"
@@ -799,7 +799,7 @@
         },
         "currency": "GBP",
         "price": "8.78",
-        "url": "https://reward.cloud/products/5889b0a7fd6ea9694afac60d",
+        "url": "https://example.com/products/5889b0a7fd6ea9694afac60d",
         "index": 35,
         "uuid": "690df4a6-2d28-404a-965d-882aac8847e6",
         "id": "5889b0a7fd6ea9694afac60d"
@@ -834,7 +834,7 @@
         },
         "currency": "EUR",
         "price": "1.92",
-        "url": "https://reward.cloud/products/5889b0a7f896a9e1c274d2f8",
+        "url": "https://example.com/products/5889b0a7f896a9e1c274d2f8",
         "index": 36,
         "uuid": "c7bbde56-1826-46f5-81aa-f6c9a138e91c",
         "id": "5889b0a7f896a9e1c274d2f8"
@@ -869,7 +869,7 @@
         },
         "currency": "USD",
         "price": "4.10",
-        "url": "https://reward.cloud/products/5889b0a7d0e28e342fb976da",
+        "url": "https://example.com/products/5889b0a7d0e28e342fb976da",
         "index": 37,
         "uuid": "6086924e-5c6d-43e3-a993-f1c5dfeffa10",
         "id": "5889b0a7d0e28e342fb976da"
@@ -904,7 +904,7 @@
         },
         "currency": "EUR",
         "price": "4.93",
-        "url": "https://reward.cloud/products/5889b0a706ac624ceb8bd0e7",
+        "url": "https://example.com/products/5889b0a706ac624ceb8bd0e7",
         "index": 38,
         "uuid": "482a763b-bd2d-467f-beb5-56f2ef61c388",
         "id": "5889b0a706ac624ceb8bd0e7"
@@ -939,7 +939,7 @@
         },
         "currency": "USD",
         "price": "1.01",
-        "url": "https://reward.cloud/products/5889b0a7d99b8c28a1ce798f",
+        "url": "https://example.com/products/5889b0a7d99b8c28a1ce798f",
         "index": 39,
         "uuid": "203e333f-775a-4231-a8d2-9ef6bfb3232e",
         "id": "5889b0a7d99b8c28a1ce798f"
@@ -974,7 +974,7 @@
         },
         "currency": "EUR",
         "price": "7.96",
-        "url": "https://reward.cloud/products/5889b0a70fa3ef0f02cdd5b4",
+        "url": "https://example.com/products/5889b0a70fa3ef0f02cdd5b4",
         "index": 40,
         "uuid": "058a3503-d646-42f0-9efb-8b751ae126aa",
         "id": "5889b0a70fa3ef0f02cdd5b4"
@@ -1009,7 +1009,7 @@
         },
         "currency": "USD",
         "price": "4.35",
-        "url": "https://reward.cloud/products/5889b0a7637dbf7b6f76ea1b",
+        "url": "https://example.com/products/5889b0a7637dbf7b6f76ea1b",
         "index": 41,
         "uuid": "5ac65c52-2a66-483e-a399-77c914a891b1",
         "id": "5889b0a7637dbf7b6f76ea1b"
@@ -1044,7 +1044,7 @@
         },
         "currency": "EUR",
         "price": "3.62",
-        "url": "https://reward.cloud/products/5889b0a74670e839677a232c",
+        "url": "https://example.com/products/5889b0a74670e839677a232c",
         "index": 42,
         "uuid": "4f94134a-b24f-4f4f-80a4-0af1d866231f",
         "id": "5889b0a74670e839677a232c"
@@ -1079,7 +1079,7 @@
         },
         "currency": "EUR",
         "price": "7.77",
-        "url": "https://reward.cloud/products/5889b0a70282d7559a0579f3",
+        "url": "https://example.com/products/5889b0a70282d7559a0579f3",
         "index": 43,
         "uuid": "b8ed0f56-3056-4c27-a752-ab610ee90d6e",
         "id": "5889b0a70282d7559a0579f3"
@@ -1114,7 +1114,7 @@
         },
         "currency": "EUR",
         "price": "0.37",
-        "url": "https://reward.cloud/products/5889b0a70e2d1778030f29aa",
+        "url": "https://example.com/products/5889b0a70e2d1778030f29aa",
         "index": 44,
         "uuid": "e293d984-b281-41eb-9555-3a17b98713d7",
         "id": "5889b0a70e2d1778030f29aa"
@@ -1149,7 +1149,7 @@
         },
         "currency": "EUR",
         "price": "3.49",
-        "url": "https://reward.cloud/products/5889b0a7f4150f60ca94e56a",
+        "url": "https://example.com/products/5889b0a7f4150f60ca94e56a",
         "index": 45,
         "uuid": "754760a7-289f-4b3d-a16a-edafe0f56c15",
         "id": "5889b0a7f4150f60ca94e56a"
@@ -1184,7 +1184,7 @@
         },
         "currency": "GBP",
         "price": "4.71",
-        "url": "https://reward.cloud/products/5889b0a79a353b0e389a0b92",
+        "url": "https://example.com/products/5889b0a79a353b0e389a0b92",
         "index": 46,
         "uuid": "6426a72c-6d16-4b17-8d2a-8300c4f90c94",
         "id": "5889b0a79a353b0e389a0b92"
@@ -1219,7 +1219,7 @@
         },
         "currency": "GBP",
         "price": "7.94",
-        "url": "https://reward.cloud/products/5889b0a725bc03b3f5e25172",
+        "url": "https://example.com/products/5889b0a725bc03b3f5e25172",
         "index": 47,
         "uuid": "e94145ce-de01-42fd-baef-b84a101d61dd",
         "id": "5889b0a725bc03b3f5e25172"
@@ -1254,7 +1254,7 @@
         },
         "currency": "GBP",
         "price": "0.68",
-        "url": "https://reward.cloud/products/5889b0a70eb48bc21d55c667",
+        "url": "https://example.com/products/5889b0a70eb48bc21d55c667",
         "index": 48,
         "uuid": "9ef8ec5a-f70f-4704-ab2b-a70240483213",
         "id": "5889b0a70eb48bc21d55c667"
@@ -1289,7 +1289,7 @@
         },
         "currency": "USD",
         "price": "9.12",
-        "url": "https://reward.cloud/products/5889b0a77403b36f51ddda4b",
+        "url": "https://example.com/products/5889b0a77403b36f51ddda4b",
         "index": 49,
         "uuid": "0ede85b5-4185-4b97-9462-63a9fb667af5",
         "id": "5889b0a77403b36f51ddda4b"
@@ -1324,7 +1324,7 @@
         },
         "currency": "EUR",
         "price": "0.38",
-        "url": "https://reward.cloud/products/5889b0a76ec63ea9c4514996",
+        "url": "https://example.com/products/5889b0a76ec63ea9c4514996",
         "index": 50,
         "uuid": "b18a6a93-5e59-49f7-89ea-dd05e1508c94",
         "id": "5889b0a76ec63ea9c4514996"
@@ -1359,7 +1359,7 @@
         },
         "currency": "EUR",
         "price": "6.80",
-        "url": "https://reward.cloud/products/5889b0a7b83f3c8c4578187e",
+        "url": "https://example.com/products/5889b0a7b83f3c8c4578187e",
         "index": 51,
         "uuid": "71299f1d-9e84-46f5-8f79-371ba5763cb2",
         "id": "5889b0a7b83f3c8c4578187e"
@@ -1394,7 +1394,7 @@
         },
         "currency": "USD",
         "price": "7.08",
-        "url": "https://reward.cloud/products/5889b0a793e33174dbd61c80",
+        "url": "https://example.com/products/5889b0a793e33174dbd61c80",
         "index": 52,
         "uuid": "011fd75f-2333-43c0-b64a-c84078401427",
         "id": "5889b0a793e33174dbd61c80"
@@ -1429,7 +1429,7 @@
         },
         "currency": "EUR",
         "price": "7.33",
-        "url": "https://reward.cloud/products/5889b0a71c2b33150f0c698c",
+        "url": "https://example.com/products/5889b0a71c2b33150f0c698c",
         "index": 53,
         "uuid": "3e548114-31cd-460c-8f10-3d24017dc5c3",
         "id": "5889b0a71c2b33150f0c698c"
@@ -1464,7 +1464,7 @@
         },
         "currency": "EUR",
         "price": "4.27",
-        "url": "https://reward.cloud/products/5889b0a79f5b7d9e713ff553",
+        "url": "https://example.com/products/5889b0a79f5b7d9e713ff553",
         "index": 54,
         "uuid": "43039454-1b28-4dde-b1d6-6fa35aa2959c",
         "id": "5889b0a79f5b7d9e713ff553"
@@ -1499,7 +1499,7 @@
         },
         "currency": "USD",
         "price": "8.17",
-        "url": "https://reward.cloud/products/5889b0a70347bb6b472020c0",
+        "url": "https://example.com/products/5889b0a70347bb6b472020c0",
         "index": 55,
         "uuid": "ed18c6a1-590c-490d-bcdf-309fd1416cff",
         "id": "5889b0a70347bb6b472020c0"
@@ -1534,7 +1534,7 @@
         },
         "currency": "EUR",
         "price": "2.22",
-        "url": "https://reward.cloud/products/5889b0a768eb0855adffe145",
+        "url": "https://example.com/products/5889b0a768eb0855adffe145",
         "index": 56,
         "uuid": "5695fcae-22ee-4609-835b-6dea9debafac",
         "id": "5889b0a768eb0855adffe145"
@@ -1569,7 +1569,7 @@
         },
         "currency": "GBP",
         "price": "0.52",
-        "url": "https://reward.cloud/products/5889b0a72b0118c8d1881bc3",
+        "url": "https://example.com/products/5889b0a72b0118c8d1881bc3",
         "index": 57,
         "uuid": "f7f7200e-91b5-4a24-88aa-77b27440396a",
         "id": "5889b0a72b0118c8d1881bc3"
@@ -1604,7 +1604,7 @@
         },
         "currency": "EUR",
         "price": "4.05",
-        "url": "https://reward.cloud/products/5889b0a7717e4f6c5767a956",
+        "url": "https://example.com/products/5889b0a7717e4f6c5767a956",
         "index": 58,
         "uuid": "9af23c14-9f95-4d51-a4ac-0a8ff27a38b1",
         "id": "5889b0a7717e4f6c5767a956"
@@ -1639,7 +1639,7 @@
         },
         "currency": "GBP",
         "price": "3.92",
-        "url": "https://reward.cloud/products/5889b0a7c524ab33afc3a2bb",
+        "url": "https://example.com/products/5889b0a7c524ab33afc3a2bb",
         "index": 59,
         "uuid": "c61f96b0-2e22-4e68-829e-ba702965a77e",
         "id": "5889b0a7c524ab33afc3a2bb"
@@ -1674,7 +1674,7 @@
         },
         "currency": "USD",
         "price": "3.72",
-        "url": "https://reward.cloud/products/5889b0a7ba7e3185c632310c",
+        "url": "https://example.com/products/5889b0a7ba7e3185c632310c",
         "index": 60,
         "uuid": "397ef61b-0013-48e2-a40c-d440f9a79af5",
         "id": "5889b0a7ba7e3185c632310c"
@@ -1709,7 +1709,7 @@
         },
         "currency": "USD",
         "price": "3.61",
-        "url": "https://reward.cloud/products/5889b0a77359e5762817408a",
+        "url": "https://example.com/products/5889b0a77359e5762817408a",
         "index": 61,
         "uuid": "6fd52e80-7858-4100-a81c-e12bd68d7526",
         "id": "5889b0a77359e5762817408a"
@@ -1744,7 +1744,7 @@
         },
         "currency": "USD",
         "price": "7.14",
-        "url": "https://reward.cloud/products/5889b0a765487efeded3245f",
+        "url": "https://example.com/products/5889b0a765487efeded3245f",
         "index": 62,
         "uuid": "2bc32329-d579-4f89-a49a-9bd1bbfc921a",
         "id": "5889b0a765487efeded3245f"
@@ -1779,7 +1779,7 @@
         },
         "currency": "GBP",
         "price": "3.39",
-        "url": "https://reward.cloud/products/5889b0a7f364e138b2e5e251",
+        "url": "https://example.com/products/5889b0a7f364e138b2e5e251",
         "index": 63,
         "uuid": "a6ab38d2-388c-4429-a921-01cdcbe39d53",
         "id": "5889b0a7f364e138b2e5e251"
@@ -1814,7 +1814,7 @@
         },
         "currency": "GBP",
         "price": "1.56",
-        "url": "https://reward.cloud/products/5889b0a74dd43d03f98ef5a7",
+        "url": "https://example.com/products/5889b0a74dd43d03f98ef5a7",
         "index": 64,
         "uuid": "9de6b95c-35a0-4b77-bd4d-1a84c689e304",
         "id": "5889b0a74dd43d03f98ef5a7"
@@ -1849,7 +1849,7 @@
         },
         "currency": "USD",
         "price": "0.26",
-        "url": "https://reward.cloud/products/5889b0a7a158b62eb444c13d",
+        "url": "https://example.com/products/5889b0a7a158b62eb444c13d",
         "index": 65,
         "uuid": "60245337-58a0-4799-82c3-d8ab09cc8430",
         "id": "5889b0a7a158b62eb444c13d"
@@ -1884,7 +1884,7 @@
         },
         "currency": "USD",
         "price": "1.03",
-        "url": "https://reward.cloud/products/5889b0a7246949641a615c07",
+        "url": "https://example.com/products/5889b0a7246949641a615c07",
         "index": 66,
         "uuid": "a6ad65a0-5c49-48ad-8654-05e08881412b",
         "id": "5889b0a7246949641a615c07"
@@ -1919,7 +1919,7 @@
         },
         "currency": "USD",
         "price": "4.38",
-        "url": "https://reward.cloud/products/5889b0a718afe9310d54d719",
+        "url": "https://example.com/products/5889b0a718afe9310d54d719",
         "index": 67,
         "uuid": "faed1e33-bde3-4118-8b9e-7d0de91a0e2f",
         "id": "5889b0a718afe9310d54d719"
@@ -1954,7 +1954,7 @@
         },
         "currency": "EUR",
         "price": "2.13",
-        "url": "https://reward.cloud/products/5889b0a7be9bfa92bc36466d",
+        "url": "https://example.com/products/5889b0a7be9bfa92bc36466d",
         "index": 68,
         "uuid": "c2f31011-0a92-430d-a418-9a1f4e19676c",
         "id": "5889b0a7be9bfa92bc36466d"
@@ -1989,7 +1989,7 @@
         },
         "currency": "GBP",
         "price": "4.75",
-        "url": "https://reward.cloud/products/5889b0a728f1a7106d9eec30",
+        "url": "https://example.com/products/5889b0a728f1a7106d9eec30",
         "index": 69,
         "uuid": "cefb9b0c-acb5-4006-8d0c-a560432e3b7a",
         "id": "5889b0a728f1a7106d9eec30"
@@ -2024,7 +2024,7 @@
         },
         "currency": "USD",
         "price": "8.80",
-        "url": "https://reward.cloud/products/5889b0a7a76578cb6e154bfd",
+        "url": "https://example.com/products/5889b0a7a76578cb6e154bfd",
         "index": 70,
         "uuid": "5cbd43b0-07c7-494e-a634-f396d28682e0",
         "id": "5889b0a7a76578cb6e154bfd"
@@ -2059,7 +2059,7 @@
         },
         "currency": "USD",
         "price": "6.08",
-        "url": "https://reward.cloud/products/5889b0a74aa99fe783bb9b19",
+        "url": "https://example.com/products/5889b0a74aa99fe783bb9b19",
         "index": 71,
         "uuid": "2db91304-4bc7-4c39-8f1e-18c5db6f490d",
         "id": "5889b0a74aa99fe783bb9b19"
@@ -2094,7 +2094,7 @@
         },
         "currency": "GBP",
         "price": "9.43",
-        "url": "https://reward.cloud/products/5889b0a7a66d79c70b43f830",
+        "url": "https://example.com/products/5889b0a7a66d79c70b43f830",
         "index": 72,
         "uuid": "b1ba9418-a77d-4e0c-902f-5253b2ff8950",
         "id": "5889b0a7a66d79c70b43f830"
@@ -2129,7 +2129,7 @@
         },
         "currency": "EUR",
         "price": "5.69",
-        "url": "https://reward.cloud/products/5889b0a7be5a8050d783d802",
+        "url": "https://example.com/products/5889b0a7be5a8050d783d802",
         "index": 73,
         "uuid": "e0b02ba4-8483-449a-b42e-9c107bf39fad",
         "id": "5889b0a7be5a8050d783d802"
@@ -2164,7 +2164,7 @@
         },
         "currency": "GBP",
         "price": "4.95",
-        "url": "https://reward.cloud/products/5889b0a72fb71d07e8c0616a",
+        "url": "https://example.com/products/5889b0a72fb71d07e8c0616a",
         "index": 74,
         "uuid": "30f4cb32-d38c-45ac-9517-d4ccaf190266",
         "id": "5889b0a72fb71d07e8c0616a"
@@ -2199,7 +2199,7 @@
         },
         "currency": "EUR",
         "price": "4.20",
-        "url": "https://reward.cloud/products/5889b0a78da6e6a6b5bec907",
+        "url": "https://example.com/products/5889b0a78da6e6a6b5bec907",
         "index": 75,
         "uuid": "ac6f081e-e25d-4295-a852-4ffa722f2ecf",
         "id": "5889b0a78da6e6a6b5bec907"
@@ -2234,7 +2234,7 @@
         },
         "currency": "EUR",
         "price": "0.93",
-        "url": "https://reward.cloud/products/5889b0a7b5fef017f3952d4c",
+        "url": "https://example.com/products/5889b0a7b5fef017f3952d4c",
         "index": 76,
         "uuid": "afe2503b-8189-4488-9348-98c1629d61fc",
         "id": "5889b0a7b5fef017f3952d4c"
@@ -2269,7 +2269,7 @@
         },
         "currency": "GBP",
         "price": "7.79",
-        "url": "https://reward.cloud/products/5889b0a7fda458c15249700b",
+        "url": "https://example.com/products/5889b0a7fda458c15249700b",
         "index": 77,
         "uuid": "791b611f-de01-445a-85f1-fa4d126c7b03",
         "id": "5889b0a7fda458c15249700b"
@@ -2304,7 +2304,7 @@
         },
         "currency": "GBP",
         "price": "5.78",
-        "url": "https://reward.cloud/products/5889b0a7fbe918048df42ec4",
+        "url": "https://example.com/products/5889b0a7fbe918048df42ec4",
         "index": 78,
         "uuid": "41e046b6-e4c1-45ad-9b4b-c1656bf2e522",
         "id": "5889b0a7fbe918048df42ec4"
@@ -2339,7 +2339,7 @@
         },
         "currency": "GBP",
         "price": "5.50",
-        "url": "https://reward.cloud/products/5889b0a70ec892a32f0e5ba3",
+        "url": "https://example.com/products/5889b0a70ec892a32f0e5ba3",
         "index": 79,
         "uuid": "faba425d-9e2b-43bd-a430-35e97c3a7a59",
         "id": "5889b0a70ec892a32f0e5ba3"
@@ -2374,7 +2374,7 @@
         },
         "currency": "EUR",
         "price": "4.69",
-        "url": "https://reward.cloud/products/5889b0a7f0a81d6b70c91f43",
+        "url": "https://example.com/products/5889b0a7f0a81d6b70c91f43",
         "index": 80,
         "uuid": "1b476cfb-dd43-47cc-ba3e-a02b66123559",
         "id": "5889b0a7f0a81d6b70c91f43"
@@ -2409,7 +2409,7 @@
         },
         "currency": "EUR",
         "price": "5.16",
-        "url": "https://reward.cloud/products/5889b0a73b436f203f1a0b8c",
+        "url": "https://example.com/products/5889b0a73b436f203f1a0b8c",
         "index": 81,
         "uuid": "995bb9f3-5051-46e9-a3cf-339fe1891e04",
         "id": "5889b0a73b436f203f1a0b8c"
@@ -2444,7 +2444,7 @@
         },
         "currency": "EUR",
         "price": "4.09",
-        "url": "https://reward.cloud/products/5889b0a7b2f1e0d260d9717d",
+        "url": "https://example.com/products/5889b0a7b2f1e0d260d9717d",
         "index": 82,
         "uuid": "5b4fffd3-f2d5-41b2-b723-9a15007743f6",
         "id": "5889b0a7b2f1e0d260d9717d"
@@ -2479,7 +2479,7 @@
         },
         "currency": "USD",
         "price": "99.54",
-        "url": "https://reward.cloud/products/5889b0f342257355a9de1624",
+        "url": "https://example.com/products/5889b0f342257355a9de1624",
         "index": 100,
         "uuid": "b4f38ca4-52c8-433d-80da-299bf60422ec",
         "id": "5889b0f342257355a9de1624"
@@ -2514,7 +2514,7 @@
         },
         "currency": "GBP",
         "price": "90.58",
-        "url": "https://reward.cloud/products/5889b0f3dea2ede8467ca6a6",
+        "url": "https://example.com/products/5889b0f3dea2ede8467ca6a6",
         "index": 101,
         "uuid": "9b8a69aa-4413-498f-a472-e4c9ce9fa333",
         "id": "5889b0f3dea2ede8467ca6a6"
@@ -2549,7 +2549,7 @@
         },
         "currency": "EUR",
         "price": "3.38",
-        "url": "https://reward.cloud/products/5889b0f3db249ea1a421c93b",
+        "url": "https://example.com/products/5889b0f3db249ea1a421c93b",
         "index": 102,
         "uuid": "cd6d1271-40de-4c9d-ad86-87c03f73bf3d",
         "id": "5889b0f3db249ea1a421c93b"
@@ -2584,7 +2584,7 @@
         },
         "currency": "EUR",
         "price": "69.76",
-        "url": "https://reward.cloud/products/5889b0f3fe9ed03c9ac7d70b",
+        "url": "https://example.com/products/5889b0f3fe9ed03c9ac7d70b",
         "index": 103,
         "uuid": "8ef1f7f5-1eb9-465a-9864-2cf7bcc7e1c5",
         "id": "5889b0f3fe9ed03c9ac7d70b"
@@ -2619,7 +2619,7 @@
         },
         "currency": "EUR",
         "price": "48.52",
-        "url": "https://reward.cloud/products/5889b0f33041cb2067d4516b",
+        "url": "https://example.com/products/5889b0f33041cb2067d4516b",
         "index": 104,
         "uuid": "d9230c05-426f-47d6-a513-8bbc961ad74e",
         "id": "5889b0f33041cb2067d4516b"
@@ -2654,7 +2654,7 @@
         },
         "currency": "GBP",
         "price": "64.63",
-        "url": "https://reward.cloud/products/5889b0f3d7b1779cd14870d4",
+        "url": "https://example.com/products/5889b0f3d7b1779cd14870d4",
         "index": 105,
         "uuid": "b2256ee8-96aa-4247-8998-8d63c503fc97",
         "id": "5889b0f3d7b1779cd14870d4"
@@ -2689,7 +2689,7 @@
         },
         "currency": "USD",
         "price": "56.77",
-        "url": "https://reward.cloud/products/5889b0f33593fc8f652db091",
+        "url": "https://example.com/products/5889b0f33593fc8f652db091",
         "index": 106,
         "uuid": "1c976d40-8c93-459f-9d87-1290f0b6a279",
         "id": "5889b0f33593fc8f652db091"
@@ -2724,7 +2724,7 @@
         },
         "currency": "USD",
         "price": "4.90",
-        "url": "https://reward.cloud/products/5889b0f33693d5aaba8cab54",
+        "url": "https://example.com/products/5889b0f33693d5aaba8cab54",
         "index": 107,
         "uuid": "55a68090-699a-4f48-9a97-6b8a10e86df4",
         "id": "5889b0f33693d5aaba8cab54"
@@ -2759,7 +2759,7 @@
         },
         "currency": "USD",
         "price": "35.58",
-        "url": "https://reward.cloud/products/5889b0f3f6ae07203fe7b1f2",
+        "url": "https://example.com/products/5889b0f3f6ae07203fe7b1f2",
         "index": 108,
         "uuid": "b0125597-858a-4475-bc06-73bbeef4b4a9",
         "id": "5889b0f3f6ae07203fe7b1f2"
@@ -2794,7 +2794,7 @@
         },
         "currency": "USD",
         "price": "29.38",
-        "url": "https://reward.cloud/products/5889b0f3030eb5d78025f14c",
+        "url": "https://example.com/products/5889b0f3030eb5d78025f14c",
         "index": 109,
         "uuid": "5c1d003d-c6ea-4bff-aa7e-bb871922c1af",
         "id": "5889b0f3030eb5d78025f14c"
@@ -2829,7 +2829,7 @@
         },
         "currency": "GBP",
         "price": "74.86",
-        "url": "https://reward.cloud/products/5889b0f371c6cdf7b22d71a6",
+        "url": "https://example.com/products/5889b0f371c6cdf7b22d71a6",
         "index": 110,
         "uuid": "8626998a-f624-4092-aec2-ad38d4318f8c",
         "id": "5889b0f371c6cdf7b22d71a6"
@@ -2864,7 +2864,7 @@
         },
         "currency": "GBP",
         "price": "79.48",
-        "url": "https://reward.cloud/products/5889b0f37e1e059b0f399ba0",
+        "url": "https://example.com/products/5889b0f37e1e059b0f399ba0",
         "index": 111,
         "uuid": "0788d940-5f56-40cb-8e24-9542f6534b46",
         "id": "5889b0f37e1e059b0f399ba0"
@@ -2899,7 +2899,7 @@
         },
         "currency": "GBP",
         "price": "31.44",
-        "url": "https://reward.cloud/products/5889b0f381664234468ec544",
+        "url": "https://example.com/products/5889b0f381664234468ec544",
         "index": 112,
         "uuid": "a2d487e0-bf54-4db1-a2a1-f3b2069718cb",
         "id": "5889b0f381664234468ec544"
@@ -2934,7 +2934,7 @@
         },
         "currency": "EUR",
         "price": "13.84",
-        "url": "https://reward.cloud/products/5889b0f3b42b27f2f9643525",
+        "url": "https://example.com/products/5889b0f3b42b27f2f9643525",
         "index": 113,
         "uuid": "be3398cc-3cb2-41e8-877b-a92f98478500",
         "id": "5889b0f3b42b27f2f9643525"
@@ -2969,7 +2969,7 @@
         },
         "currency": "EUR",
         "price": "15.27",
-        "url": "https://reward.cloud/products/5889b0f3f926c66a9cb8d346",
+        "url": "https://example.com/products/5889b0f3f926c66a9cb8d346",
         "index": 114,
         "uuid": "6a60717a-7b29-49f6-81e5-773e105f0cb8",
         "id": "5889b0f3f926c66a9cb8d346"
@@ -3004,7 +3004,7 @@
         },
         "currency": "GBP",
         "price": "28.33",
-        "url": "https://reward.cloud/products/5889b0f3c7cbe5140ca0bd21",
+        "url": "https://example.com/products/5889b0f3c7cbe5140ca0bd21",
         "index": 115,
         "uuid": "723039fe-8899-4176-964b-8d3348d8c917",
         "id": "5889b0f3c7cbe5140ca0bd21"
@@ -3039,7 +3039,7 @@
         },
         "currency": "USD",
         "price": "22.16",
-        "url": "https://reward.cloud/products/5889b0f3009cebb6b5bacb11",
+        "url": "https://example.com/products/5889b0f3009cebb6b5bacb11",
         "index": 116,
         "uuid": "5534b874-f1cc-4089-b8f4-add2d6249ab5",
         "id": "5889b0f3009cebb6b5bacb11"
@@ -3074,7 +3074,7 @@
         },
         "currency": "EUR",
         "price": "69.12",
-        "url": "https://reward.cloud/products/5889b0f39eb880b9bdfcd1cf",
+        "url": "https://example.com/products/5889b0f39eb880b9bdfcd1cf",
         "index": 117,
         "uuid": "f4f98e2b-dd57-4b08-9faf-b89bf7a92763",
         "id": "5889b0f39eb880b9bdfcd1cf"
@@ -3109,7 +3109,7 @@
         },
         "currency": "EUR",
         "price": "0.00",
-        "url": "https://reward.cloud/products/5889b0f3ffa15c42238af0d9",
+        "url": "https://example.com/products/5889b0f3ffa15c42238af0d9",
         "index": 118,
         "uuid": "9fece653-3b2a-431d-8cdb-99a963576ede",
         "id": "5889b0f3ffa15c42238af0d9"
@@ -3144,7 +3144,7 @@
         },
         "currency": "USD",
         "price": "82.79",
-        "url": "https://reward.cloud/products/5889b0f3d336f396bfc40197",
+        "url": "https://example.com/products/5889b0f3d336f396bfc40197",
         "index": 119,
         "uuid": "9455372b-0cbd-4a24-a5aa-3c216531646d",
         "id": "5889b0f3d336f396bfc40197"
@@ -3179,7 +3179,7 @@
         },
         "currency": "USD",
         "price": "76.82",
-        "url": "https://reward.cloud/products/5889b0f3ed9e7eaf4cb49dac",
+        "url": "https://example.com/products/5889b0f3ed9e7eaf4cb49dac",
         "index": 120,
         "uuid": "c8b5a25c-4e05-4f31-aa3d-471dc9fa1f84",
         "id": "5889b0f3ed9e7eaf4cb49dac"
@@ -3214,7 +3214,7 @@
         },
         "currency": "GBP",
         "price": "30.75",
-        "url": "https://reward.cloud/products/5889b0f39660ad12ad152df7",
+        "url": "https://example.com/products/5889b0f39660ad12ad152df7",
         "index": 121,
         "uuid": "aae23dc9-2b48-4fac-943b-7e40fe25fd66",
         "id": "5889b0f39660ad12ad152df7"
@@ -3249,7 +3249,7 @@
         },
         "currency": "USD",
         "price": "40.14",
-        "url": "https://reward.cloud/products/5889b0f3a14002a2e2b5965a",
+        "url": "https://example.com/products/5889b0f3a14002a2e2b5965a",
         "index": 122,
         "uuid": "455657a6-0be8-4420-a7f9-bafedb5f3a4c",
         "id": "5889b0f3a14002a2e2b5965a"
@@ -3284,7 +3284,7 @@
         },
         "currency": "USD",
         "price": "59.64",
-        "url": "https://reward.cloud/products/5889b0f3ddd28fd42b4705fe",
+        "url": "https://example.com/products/5889b0f3ddd28fd42b4705fe",
         "index": 123,
         "uuid": "e5a77b18-61aa-422f-b859-acbac78a2ee6",
         "id": "5889b0f3ddd28fd42b4705fe"
@@ -3319,7 +3319,7 @@
         },
         "currency": "GBP",
         "price": "32.72",
-        "url": "https://reward.cloud/products/5889b0f38f853bd60cddaa42",
+        "url": "https://example.com/products/5889b0f38f853bd60cddaa42",
         "index": 124,
         "uuid": "5a3166fe-e3b0-43fc-811b-1ad3268bde52",
         "id": "5889b0f38f853bd60cddaa42"
@@ -3354,7 +3354,7 @@
         },
         "currency": "GBP",
         "price": "0.00",
-        "url": "https://reward.cloud/products/5889b0f354a8292625adf744",
+        "url": "https://example.com/products/5889b0f354a8292625adf744",
         "index": 125,
         "uuid": "9fab3bfe-8a32-4409-bd01-1d52d41043e4",
         "id": "5889b0f354a8292625adf744"
@@ -3389,7 +3389,7 @@
         },
         "currency": "GBP",
         "price": "66.64",
-        "url": "https://reward.cloud/products/5889b0f35bc1f67b85fdc882",
+        "url": "https://example.com/products/5889b0f35bc1f67b85fdc882",
         "index": 126,
         "uuid": "ce0b34b7-b47e-46cb-b782-bbf562aca7b5",
         "id": "5889b0f35bc1f67b85fdc882"
@@ -3424,7 +3424,7 @@
         },
         "currency": "EUR",
         "price": "36.11",
-        "url": "https://reward.cloud/products/5889b0f3fe91c57a2608e1c0",
+        "url": "https://example.com/products/5889b0f3fe91c57a2608e1c0",
         "index": 127,
         "uuid": "d213a6fd-e828-4246-9b80-914cf14604e9",
         "id": "5889b0f3fe91c57a2608e1c0"
@@ -3459,7 +3459,7 @@
         },
         "currency": "GBP",
         "price": "53.51",
-        "url": "https://reward.cloud/products/5889b0f389285fd6ca83f235",
+        "url": "https://example.com/products/5889b0f389285fd6ca83f235",
         "index": 128,
         "uuid": "6eac5808-7b1d-42be-b0ef-6d9c6af4f193",
         "id": "5889b0f389285fd6ca83f235"
@@ -3494,7 +3494,7 @@
         },
         "currency": "USD",
         "price": "3.62",
-        "url": "https://reward.cloud/products/5889b0f3568f3925aeafb817",
+        "url": "https://example.com/products/5889b0f3568f3925aeafb817",
         "index": 129,
         "uuid": "45c106fa-bf6d-4dde-9283-93daf50f9d20",
         "id": "5889b0f3568f3925aeafb817"
@@ -3529,7 +3529,7 @@
         },
         "currency": "GBP",
         "price": "86.85",
-        "url": "https://reward.cloud/products/5889b0f341de80d9bb2c8d6b",
+        "url": "https://example.com/products/5889b0f341de80d9bb2c8d6b",
         "index": 130,
         "uuid": "6bf2c265-f62e-417b-8ede-cb9ac3b755c0",
         "id": "5889b0f341de80d9bb2c8d6b"
@@ -3564,7 +3564,7 @@
         },
         "currency": "EUR",
         "price": "86.55",
-        "url": "https://reward.cloud/products/5889b0f34d1116b5c09a812a",
+        "url": "https://example.com/products/5889b0f34d1116b5c09a812a",
         "index": 131,
         "uuid": "7ee1de19-eb3d-40ca-aada-c69476d2ea6b",
         "id": "5889b0f34d1116b5c09a812a"
@@ -3599,7 +3599,7 @@
         },
         "currency": "USD",
         "price": "94.15",
-        "url": "https://reward.cloud/products/5889b0f34b7e1d1f6792ff4e",
+        "url": "https://example.com/products/5889b0f34b7e1d1f6792ff4e",
         "index": 132,
         "uuid": "6eff3736-37ab-46f3-adca-b6d597778166",
         "id": "5889b0f34b7e1d1f6792ff4e"
@@ -3634,7 +3634,7 @@
         },
         "currency": "USD",
         "price": "91.86",
-        "url": "https://reward.cloud/products/5889b0f3022d103e1f14dcfd",
+        "url": "https://example.com/products/5889b0f3022d103e1f14dcfd",
         "index": 133,
         "uuid": "93567e75-42d0-43c3-9e7d-05bb59f7ecd0",
         "id": "5889b0f3022d103e1f14dcfd"
@@ -3669,7 +3669,7 @@
         },
         "currency": "GBP",
         "price": "0.00",
-        "url": "https://reward.cloud/products/5889b0f39297e15f64debffd",
+        "url": "https://example.com/products/5889b0f39297e15f64debffd",
         "index": 134,
         "uuid": "a7131d51-34f9-423c-bc98-7930f361eddb",
         "id": "5889b0f39297e15f64debffd"
@@ -3704,7 +3704,7 @@
         },
         "currency": "EUR",
         "price": "15.06",
-        "url": "https://reward.cloud/products/5889b0f398d785c6f25299a7",
+        "url": "https://example.com/products/5889b0f398d785c6f25299a7",
         "index": 135,
         "uuid": "35df161f-1e96-4d27-ae56-0a72462b1a0f",
         "id": "5889b0f398d785c6f25299a7"
@@ -3739,7 +3739,7 @@
         },
         "currency": "GBP",
         "price": "24.97",
-        "url": "https://reward.cloud/products/5889b0f30882e05e2a0aafb0",
+        "url": "https://example.com/products/5889b0f30882e05e2a0aafb0",
         "index": 136,
         "uuid": "3e02b227-78d0-41cd-a63a-d47ff4623355",
         "id": "5889b0f30882e05e2a0aafb0"
@@ -3774,7 +3774,7 @@
         },
         "currency": "USD",
         "price": "92.05",
-        "url": "https://reward.cloud/products/5889b0f33d4a8b67b5344b2c",
+        "url": "https://example.com/products/5889b0f33d4a8b67b5344b2c",
         "index": 137,
         "uuid": "e0ab1336-c8ea-4495-8d24-72c8cb3a3615",
         "id": "5889b0f33d4a8b67b5344b2c"
@@ -3809,7 +3809,7 @@
         },
         "currency": "EUR",
         "price": "83.42",
-        "url": "https://reward.cloud/products/5889b0f335bd450e07d7b15e",
+        "url": "https://example.com/products/5889b0f335bd450e07d7b15e",
         "index": 138,
         "uuid": "16c7292c-5546-4cbc-9abc-a3255f24792c",
         "id": "5889b0f335bd450e07d7b15e"
@@ -3844,7 +3844,7 @@
         },
         "currency": "USD",
         "price": "22.37",
-        "url": "https://reward.cloud/products/5889b0f3f4f1ab1e054dca83",
+        "url": "https://example.com/products/5889b0f3f4f1ab1e054dca83",
         "index": 139,
         "uuid": "092b782a-4532-4eec-9bb1-c01d5c4db5d0",
         "id": "5889b0f3f4f1ab1e054dca83"
@@ -3879,7 +3879,7 @@
         },
         "currency": "USD",
         "price": "82.14",
-        "url": "https://reward.cloud/products/5889b0f361ff42f7b6a8b6d5",
+        "url": "https://example.com/products/5889b0f361ff42f7b6a8b6d5",
         "index": 140,
         "uuid": "b622f829-5635-4bc5-8072-5e21d83c341f",
         "id": "5889b0f361ff42f7b6a8b6d5"
@@ -3914,7 +3914,7 @@
         },
         "currency": "EUR",
         "price": "81.50",
-        "url": "https://reward.cloud/products/5889b0f3e79661752d98407a",
+        "url": "https://example.com/products/5889b0f3e79661752d98407a",
         "index": 141,
         "uuid": "ec88a7b1-b581-4adb-a147-82e418a9d1d8",
         "id": "5889b0f3e79661752d98407a"
@@ -3949,7 +3949,7 @@
         },
         "currency": "USD",
         "price": "62.66",
-        "url": "https://reward.cloud/products/5889b0f3b91262db67d8776f",
+        "url": "https://example.com/products/5889b0f3b91262db67d8776f",
         "index": 142,
         "uuid": "e44d6a49-79eb-45d3-b9be-e3a1b9935ee9",
         "id": "5889b0f3b91262db67d8776f"
@@ -3984,7 +3984,7 @@
         },
         "currency": "GBP",
         "price": "92.69",
-        "url": "https://reward.cloud/products/5889b0f35c5bed3fb7c104ac",
+        "url": "https://example.com/products/5889b0f35c5bed3fb7c104ac",
         "index": 143,
         "uuid": "b8328d98-22e9-4f16-9709-c31e7d071d49",
         "id": "5889b0f35c5bed3fb7c104ac"
@@ -4019,7 +4019,7 @@
         },
         "currency": "GBP",
         "price": "16.95",
-        "url": "https://reward.cloud/products/5889b0f3998a668fa1686609",
+        "url": "https://example.com/products/5889b0f3998a668fa1686609",
         "index": 144,
         "uuid": "b8a7766a-28f5-4b0c-ba0e-753b64f695d4",
         "id": "5889b0f3998a668fa1686609"
@@ -4054,7 +4054,7 @@
         },
         "currency": "EUR",
         "price": "63.45",
-        "url": "https://reward.cloud/products/5889b0f304ef5085de27ea37",
+        "url": "https://example.com/products/5889b0f304ef5085de27ea37",
         "index": 145,
         "uuid": "4b2f847f-0f3c-4ca1-be1d-f8d411e0935c",
         "id": "5889b0f304ef5085de27ea37"
@@ -4089,7 +4089,7 @@
         },
         "currency": "EUR",
         "price": "37.97",
-        "url": "https://reward.cloud/products/5889b0f34db7074ed5bcd5fe",
+        "url": "https://example.com/products/5889b0f34db7074ed5bcd5fe",
         "index": 146,
         "uuid": "44099a31-a13e-478f-a559-82e6857ff475",
         "id": "5889b0f34db7074ed5bcd5fe"
@@ -4124,7 +4124,7 @@
         },
         "currency": "EUR",
         "price": "20.74",
-        "url": "https://reward.cloud/products/5889b0f3f8cae3d46e41cd2d",
+        "url": "https://example.com/products/5889b0f3f8cae3d46e41cd2d",
         "index": 147,
         "uuid": "e095d607-f85f-4b22-8a6c-91a6392114eb",
         "id": "5889b0f3f8cae3d46e41cd2d"
@@ -4159,7 +4159,7 @@
         },
         "currency": "USD",
         "price": "5.87",
-        "url": "https://reward.cloud/products/5889b0f37b7627574940ac79",
+        "url": "https://example.com/products/5889b0f37b7627574940ac79",
         "index": 148,
         "uuid": "36f82c8e-5cc8-48fd-a330-92343cf104da",
         "id": "5889b0f37b7627574940ac79"
@@ -4194,7 +4194,7 @@
         },
         "currency": "EUR",
         "price": "69.03",
-        "url": "https://reward.cloud/products/5889b0f3f13b60003483e5bf",
+        "url": "https://example.com/products/5889b0f3f13b60003483e5bf",
         "index": 149,
         "uuid": "d6144974-53a7-4d15-86e0-61c95c29dbe8",
         "id": "5889b0f3f13b60003483e5bf"
@@ -4229,7 +4229,7 @@
         },
         "currency": "EUR",
         "price": "92.41",
-        "url": "https://reward.cloud/products/5889b0f3f9c39103d30edf72",
+        "url": "https://example.com/products/5889b0f3f9c39103d30edf72",
         "index": 150,
         "uuid": "8410ea2a-435e-4b88-9bbb-d876f71c4ed7",
         "id": "5889b0f3f9c39103d30edf72"
@@ -4264,7 +4264,7 @@
         },
         "currency": "GBP",
         "price": "59.17",
-        "url": "https://reward.cloud/products/5889b0f3486713b36628f79e",
+        "url": "https://example.com/products/5889b0f3486713b36628f79e",
         "index": 151,
         "uuid": "7a8f179c-b366-47e8-87c9-8d9b4d546624",
         "id": "5889b0f3486713b36628f79e"
@@ -4299,7 +4299,7 @@
         },
         "currency": "GBP",
         "price": "80.06",
-        "url": "https://reward.cloud/products/5889b0f3d0089f0e10f975ef",
+        "url": "https://example.com/products/5889b0f3d0089f0e10f975ef",
         "index": 152,
         "uuid": "f10fd81c-c875-4c66-8587-fd4ee709b0e5",
         "id": "5889b0f3d0089f0e10f975ef"
@@ -4334,7 +4334,7 @@
         },
         "currency": "USD",
         "price": "45.27",
-        "url": "https://reward.cloud/products/5889b0f39a19136d0a46d313",
+        "url": "https://example.com/products/5889b0f39a19136d0a46d313",
         "index": 153,
         "uuid": "3ebebfd5-e83d-405e-aaa9-3a93a0973800",
         "id": "5889b0f39a19136d0a46d313"
@@ -4369,7 +4369,7 @@
         },
         "currency": "USD",
         "price": "0.00",
-        "url": "https://reward.cloud/products/5889b0f36b732e6100423589",
+        "url": "https://example.com/products/5889b0f36b732e6100423589",
         "index": 154,
         "uuid": "ecf8485a-62b5-42d5-928f-e5ee6c041dba",
         "id": "5889b0f36b732e6100423589"
@@ -4404,7 +4404,7 @@
         },
         "currency": "EUR",
         "price": "37.00",
-        "url": "https://reward.cloud/products/5889b0f33a751cc470ac2181",
+        "url": "https://example.com/products/5889b0f33a751cc470ac2181",
         "index": 155,
         "uuid": "a5d1b620-97a0-490b-83c0-59973733a4ce",
         "id": "5889b0f33a751cc470ac2181"
@@ -4439,7 +4439,7 @@
         },
         "currency": "USD",
         "price": "55.23",
-        "url": "https://reward.cloud/products/5889b0f38cd2fde6221598bb",
+        "url": "https://example.com/products/5889b0f38cd2fde6221598bb",
         "index": 156,
         "uuid": "39e91444-648f-4122-b54a-84332447c7e8",
         "id": "5889b0f38cd2fde6221598bb"
@@ -4474,7 +4474,7 @@
         },
         "currency": "GBP",
         "price": "22.46",
-        "url": "https://reward.cloud/products/5889b0f3de107f2807a9de27",
+        "url": "https://example.com/products/5889b0f3de107f2807a9de27",
         "index": 157,
         "uuid": "3f2e10a9-f132-40d8-a3de-5a2a344542f6",
         "id": "5889b0f3de107f2807a9de27"
@@ -4509,7 +4509,7 @@
         },
         "currency": "EUR",
         "price": "45.03",
-        "url": "https://reward.cloud/products/5889b0f3c2ad4a2f56f838b3",
+        "url": "https://example.com/products/5889b0f3c2ad4a2f56f838b3",
         "index": 158,
         "uuid": "7e4c4360-691d-4551-9edf-5986d51ca2d1",
         "id": "5889b0f3c2ad4a2f56f838b3"
@@ -4544,7 +4544,7 @@
         },
         "currency": "GBP",
         "price": "20.02",
-        "url": "https://reward.cloud/products/5889b0f300cb7a48406e7e6a",
+        "url": "https://example.com/products/5889b0f300cb7a48406e7e6a",
         "index": 159,
         "uuid": "23207ab1-fa7f-4f8c-b23c-63e7673da163",
         "id": "5889b0f300cb7a48406e7e6a"
@@ -4579,7 +4579,7 @@
         },
         "currency": "USD",
         "price": "13.25",
-        "url": "https://reward.cloud/products/5889b0f37956b8a2c804d25a",
+        "url": "https://example.com/products/5889b0f37956b8a2c804d25a",
         "index": 160,
         "uuid": "a75f6aeb-cf6b-4f32-995c-866690d2f87a",
         "id": "5889b0f37956b8a2c804d25a"
@@ -4614,7 +4614,7 @@
         },
         "currency": "EUR",
         "price": "1.71",
-        "url": "https://reward.cloud/products/5889b0f39e18471acda9708b",
+        "url": "https://example.com/products/5889b0f39e18471acda9708b",
         "index": 161,
         "uuid": "2f0bd6df-b691-4f0c-a7e8-4825a45323ae",
         "id": "5889b0f39e18471acda9708b"
@@ -4649,7 +4649,7 @@
         },
         "currency": "GBP",
         "price": "54.75",
-        "url": "https://reward.cloud/products/5889b0f3a2b67e185679b3f5",
+        "url": "https://example.com/products/5889b0f3a2b67e185679b3f5",
         "index": 162,
         "uuid": "8c77320a-9d4c-416a-b930-75f793ada83e",
         "id": "5889b0f3a2b67e185679b3f5"
@@ -4684,7 +4684,7 @@
         },
         "currency": "EUR",
         "price": "96.68",
-        "url": "https://reward.cloud/products/5889b0f3e7338d9ded7ae948",
+        "url": "https://example.com/products/5889b0f3e7338d9ded7ae948",
         "index": 163,
         "uuid": "ae4c0d79-0148-4ae3-9e8f-666f5b821b62",
         "id": "5889b0f3e7338d9ded7ae948"
@@ -4719,7 +4719,7 @@
         },
         "currency": "EUR",
         "price": "51.71",
-        "url": "https://reward.cloud/products/5889b0f336be0e8134ccffca",
+        "url": "https://example.com/products/5889b0f336be0e8134ccffca",
         "index": 164,
         "uuid": "6bd652c3-dd14-467a-b14b-150dca7e0e13",
         "id": "5889b0f336be0e8134ccffca"
@@ -4754,7 +4754,7 @@
         },
         "currency": "USD",
         "price": "25.52",
-        "url": "https://reward.cloud/products/5889b0f371ab392a08d76859",
+        "url": "https://example.com/products/5889b0f371ab392a08d76859",
         "index": 165,
         "uuid": "d2b49486-afb8-46fc-aa48-937ef1cb2e9e",
         "id": "5889b0f371ab392a08d76859"
@@ -4789,7 +4789,7 @@
         },
         "currency": "EUR",
         "price": "62.62",
-        "url": "https://reward.cloud/products/5889b0f33d73494dfc4c91e5",
+        "url": "https://example.com/products/5889b0f33d73494dfc4c91e5",
         "index": 166,
         "uuid": "0585b0f0-c6ad-4a7f-9cdb-c8493bb1f471",
         "id": "5889b0f33d73494dfc4c91e5"
@@ -4824,7 +4824,7 @@
         },
         "currency": "USD",
         "price": "1.76",
-        "url": "https://reward.cloud/products/5889b0f3f320994e30641a33",
+        "url": "https://example.com/products/5889b0f3f320994e30641a33",
         "index": 167,
         "uuid": "49707b38-ba70-456f-83cf-0267e3a40370",
         "id": "5889b0f3f320994e30641a33"
@@ -4859,7 +4859,7 @@
         },
         "currency": "GBP",
         "price": "28.85",
-        "url": "https://reward.cloud/products/5889b0f34504c436afdf09f0",
+        "url": "https://example.com/products/5889b0f34504c436afdf09f0",
         "index": 168,
         "uuid": "0933c86f-dc83-4b7a-a5d8-392df8ac2f12",
         "id": "5889b0f34504c436afdf09f0"
@@ -4894,7 +4894,7 @@
         },
         "currency": "EUR",
         "price": "8.54",
-        "url": "https://reward.cloud/products/5889b0f3b9142258bd12c570",
+        "url": "https://example.com/products/5889b0f3b9142258bd12c570",
         "index": 169,
         "uuid": "9779e63e-d726-43d5-92b1-16dd0047c6b1",
         "id": "5889b0f3b9142258bd12c570"
@@ -4929,7 +4929,7 @@
         },
         "currency": "EUR",
         "price": "86.43",
-        "url": "https://reward.cloud/products/5889b0f350c479b01b92fe83",
+        "url": "https://example.com/products/5889b0f350c479b01b92fe83",
         "index": 170,
         "uuid": "c999e93f-66ac-42cb-aad2-39e850c982c7",
         "id": "5889b0f350c479b01b92fe83"
@@ -4964,7 +4964,7 @@
         },
         "currency": "USD",
         "price": "85.87",
-        "url": "https://reward.cloud/products/5889b0f38b0941faff154921",
+        "url": "https://example.com/products/5889b0f38b0941faff154921",
         "index": 171,
         "uuid": "cd366270-4c0a-4d22-a6ea-70150e82cdf3",
         "id": "5889b0f38b0941faff154921"
@@ -4999,7 +4999,7 @@
         },
         "currency": "GBP",
         "price": "94.21",
-        "url": "https://reward.cloud/products/5889b0f3302a12287fd0a0f4",
+        "url": "https://example.com/products/5889b0f3302a12287fd0a0f4",
         "index": 172,
         "uuid": "72abbbeb-cabf-4b2d-a3aa-28f4bc1577e9",
         "id": "5889b0f3302a12287fd0a0f4"
@@ -5034,7 +5034,7 @@
         },
         "currency": "GBP",
         "price": "70.16",
-        "url": "https://reward.cloud/products/5889b0f33ee17dd61217fd25",
+        "url": "https://example.com/products/5889b0f33ee17dd61217fd25",
         "index": 173,
         "uuid": "53e10834-80bc-4f34-96d8-d6bdec426a43",
         "id": "5889b0f33ee17dd61217fd25"
@@ -5069,7 +5069,7 @@
         },
         "currency": "GBP",
         "price": "50.53",
-        "url": "https://reward.cloud/products/5889b0f37f6ca05cc9fda7ff",
+        "url": "https://example.com/products/5889b0f37f6ca05cc9fda7ff",
         "index": 174,
         "uuid": "2c8f53b7-b3b6-4517-b37f-5a6337cbe19e",
         "id": "5889b0f37f6ca05cc9fda7ff"
@@ -5104,7 +5104,7 @@
         },
         "currency": "EUR",
         "price": "48.99",
-        "url": "https://reward.cloud/products/5889b0f371c6dfed396b1bd0",
+        "url": "https://example.com/products/5889b0f371c6dfed396b1bd0",
         "index": 175,
         "uuid": "08efa451-68e1-4c3e-ad88-9fece5d3dd81",
         "id": "5889b0f371c6dfed396b1bd0"
@@ -5139,7 +5139,7 @@
         },
         "currency": "GBP",
         "price": "67.30",
-        "url": "https://reward.cloud/products/5889b0f3bbc79e8dc4e3d5fb",
+        "url": "https://example.com/products/5889b0f3bbc79e8dc4e3d5fb",
         "index": 176,
         "uuid": "e9e8014b-a777-41a7-9c20-f660657cc97f",
         "id": "5889b0f3bbc79e8dc4e3d5fb"
@@ -5174,7 +5174,7 @@
         },
         "currency": "USD",
         "price": "18.93",
-        "url": "https://reward.cloud/products/5889b0f33558c91c7a7bd075",
+        "url": "https://example.com/products/5889b0f33558c91c7a7bd075",
         "index": 177,
         "uuid": "b7bcb256-a422-4fdd-9c0f-165efe2cdf3e",
         "id": "5889b0f33558c91c7a7bd075"
@@ -5209,7 +5209,7 @@
         },
         "currency": "EUR",
         "price": "58.58",
-        "url": "https://reward.cloud/products/5889b0f338f36413e44ba8d2",
+        "url": "https://example.com/products/5889b0f338f36413e44ba8d2",
         "index": 178,
         "uuid": "2f9b70dd-75ab-430e-92df-6184ea2d387a",
         "id": "5889b0f338f36413e44ba8d2"
@@ -5244,7 +5244,7 @@
         },
         "currency": "USD",
         "price": "53.91",
-        "url": "https://reward.cloud/products/5889b0f3626753afca4185c0",
+        "url": "https://example.com/products/5889b0f3626753afca4185c0",
         "index": 179,
         "uuid": "0bb4a73b-0848-4232-b183-859015b704b5",
         "id": "5889b0f3626753afca4185c0"
@@ -5279,7 +5279,7 @@
         },
         "currency": "EUR",
         "price": "176.45",
-        "url": "https://reward.cloud/products/5889b1195327f1566840fded",
+        "url": "https://example.com/products/5889b1195327f1566840fded",
         "index": 200,
         "uuid": "ca3b7495-4aba-4dcb-b57a-0c803e87c58e",
         "id": "5889b1195327f1566840fded"
@@ -5314,7 +5314,7 @@
         },
         "currency": "USD",
         "price": "164.88",
-        "url": "https://reward.cloud/products/5889b11952ce49a226c33706",
+        "url": "https://example.com/products/5889b11952ce49a226c33706",
         "index": 201,
         "uuid": "e0a45b1b-4bf0-4c36-b7bb-4d16e60db0be",
         "id": "5889b11952ce49a226c33706"
@@ -5349,7 +5349,7 @@
         },
         "currency": "USD",
         "price": "165.50",
-        "url": "https://reward.cloud/products/5889b119f8128e7e29c5e7f9",
+        "url": "https://example.com/products/5889b119f8128e7e29c5e7f9",
         "index": 202,
         "uuid": "2d9c1127-b47a-4e52-a63f-cbfdd21276cd",
         "id": "5889b119f8128e7e29c5e7f9"
@@ -5384,7 +5384,7 @@
         },
         "currency": "USD",
         "price": "90.88",
-        "url": "https://reward.cloud/products/5889b119b2dc887f7fd65208",
+        "url": "https://example.com/products/5889b119b2dc887f7fd65208",
         "index": 203,
         "uuid": "b57eca22-f085-47d3-9245-235f228363a6",
         "id": "5889b119b2dc887f7fd65208"
@@ -5419,7 +5419,7 @@
         },
         "currency": "GBP",
         "price": "52.85",
-        "url": "https://reward.cloud/products/5889b11944b369732e7728a5",
+        "url": "https://example.com/products/5889b11944b369732e7728a5",
         "index": 204,
         "uuid": "3b02a3f6-50a2-430a-a320-22d7c4750cbb",
         "id": "5889b11944b369732e7728a5"
@@ -5454,7 +5454,7 @@
         },
         "currency": "EUR",
         "price": "156.89",
-        "url": "https://reward.cloud/products/5889b119c0f4d58bbea43ccb",
+        "url": "https://example.com/products/5889b119c0f4d58bbea43ccb",
         "index": 205,
         "uuid": "8c5f5444-35cd-4304-9109-2c76231d7776",
         "id": "5889b119c0f4d58bbea43ccb"
@@ -5489,7 +5489,7 @@
         },
         "currency": "GBP",
         "price": "341.19",
-        "url": "https://reward.cloud/products/5889b119f46fad4f884e1f25",
+        "url": "https://example.com/products/5889b119f46fad4f884e1f25",
         "index": 206,
         "uuid": "8efd63b5-3cfb-48f6-a4e1-4eea805ddede",
         "id": "5889b119f46fad4f884e1f25"
@@ -5524,7 +5524,7 @@
         },
         "currency": "USD",
         "price": "53.07",
-        "url": "https://reward.cloud/products/5889b119775f6a66211d0c2e",
+        "url": "https://example.com/products/5889b119775f6a66211d0c2e",
         "index": 207,
         "uuid": "cf9e8b8e-bd6b-49bb-a86c-53c1421d79fc",
         "id": "5889b119775f6a66211d0c2e"
@@ -5559,7 +5559,7 @@
         },
         "currency": "GBP",
         "price": "204.15",
-        "url": "https://reward.cloud/products/5889b11913810c05917f39e7",
+        "url": "https://example.com/products/5889b11913810c05917f39e7",
         "index": 208,
         "uuid": "4f774f89-4176-474f-8e4c-70063a8cbd7c",
         "id": "5889b11913810c05917f39e7"
@@ -5594,7 +5594,7 @@
         },
         "currency": "EUR",
         "price": "214.87",
-        "url": "https://reward.cloud/products/5889b1199f66528db8a212d4",
+        "url": "https://example.com/products/5889b1199f66528db8a212d4",
         "index": 209,
         "uuid": "f72577df-79a4-4450-9a0a-64aab3faad91",
         "id": "5889b1199f66528db8a212d4"
@@ -5629,7 +5629,7 @@
         },
         "currency": "GBP",
         "price": "20.41",
-        "url": "https://reward.cloud/products/5889b1199556097109fb8066",
+        "url": "https://example.com/products/5889b1199556097109fb8066",
         "index": 210,
         "uuid": "8ad33520-8e3f-45a9-a09e-bd541a67dc35",
         "id": "5889b1199556097109fb8066"
@@ -5664,7 +5664,7 @@
         },
         "currency": "USD",
         "price": "294.24",
-        "url": "https://reward.cloud/products/5889b119be384a7fe6799247",
+        "url": "https://example.com/products/5889b119be384a7fe6799247",
         "index": 211,
         "uuid": "85a2d9ae-caf6-48e1-a45e-d3f3288c7afc",
         "id": "5889b119be384a7fe6799247"
@@ -5699,7 +5699,7 @@
         },
         "currency": "EUR",
         "price": "186.28",
-        "url": "https://reward.cloud/products/5889b1191f6c142eebef9714",
+        "url": "https://example.com/products/5889b1191f6c142eebef9714",
         "index": 212,
         "uuid": "e22f45c1-7324-4083-9f22-b860bcc89376",
         "id": "5889b1191f6c142eebef9714"
@@ -5734,7 +5734,7 @@
         },
         "currency": "GBP",
         "price": "104.92",
-        "url": "https://reward.cloud/products/5889b11933b58cfe6e871ef1",
+        "url": "https://example.com/products/5889b11933b58cfe6e871ef1",
         "index": 213,
         "uuid": "566851c1-6476-45dc-bd05-dacfa43e1a18",
         "id": "5889b11933b58cfe6e871ef1"
@@ -5769,7 +5769,7 @@
         },
         "currency": "USD",
         "price": "52.50",
-        "url": "https://reward.cloud/products/5889b119d9af0cf025cdc0e8",
+        "url": "https://example.com/products/5889b119d9af0cf025cdc0e8",
         "index": 214,
         "uuid": "e24747ed-a4d3-48df-bf63-9f840ba5c638",
         "id": "5889b119d9af0cf025cdc0e8"
@@ -5804,7 +5804,7 @@
         },
         "currency": "EUR",
         "price": "381.15",
-        "url": "https://reward.cloud/products/5889b1191cfabda634345029",
+        "url": "https://example.com/products/5889b1191cfabda634345029",
         "index": 215,
         "uuid": "1152a90f-7f09-4dea-9d2d-81f3770f298b",
         "id": "5889b1191cfabda634345029"
@@ -5839,7 +5839,7 @@
         },
         "currency": "GBP",
         "price": "85.53",
-        "url": "https://reward.cloud/products/5889b11933e6d2d9359d8ab3",
+        "url": "https://example.com/products/5889b11933e6d2d9359d8ab3",
         "index": 216,
         "uuid": "bd144dc2-61b3-4393-a36d-6f7708a49bb3",
         "id": "5889b11933e6d2d9359d8ab3"
@@ -5874,7 +5874,7 @@
         },
         "currency": "USD",
         "price": "255.36",
-        "url": "https://reward.cloud/products/5889b119c8f1dd2a71077cb5",
+        "url": "https://example.com/products/5889b119c8f1dd2a71077cb5",
         "index": 217,
         "uuid": "73a800b4-d6c1-4c39-9a65-2823ae614a71",
         "id": "5889b119c8f1dd2a71077cb5"
@@ -5909,7 +5909,7 @@
         },
         "currency": "USD",
         "price": "359.68",
-        "url": "https://reward.cloud/products/5889b119d1e90487404e4375",
+        "url": "https://example.com/products/5889b119d1e90487404e4375",
         "index": 218,
         "uuid": "65abb46e-13d0-46b1-b6b7-1ccb7f55fbb7",
         "id": "5889b119d1e90487404e4375"
@@ -5944,7 +5944,7 @@
         },
         "currency": "USD",
         "price": "211.42",
-        "url": "https://reward.cloud/products/5889b1198cf2d54f26a4e879",
+        "url": "https://example.com/products/5889b1198cf2d54f26a4e879",
         "index": 219,
         "uuid": "575b5be8-bd97-4a34-94d7-a6d8fc00eb39",
         "id": "5889b1198cf2d54f26a4e879"
@@ -5979,7 +5979,7 @@
         },
         "currency": "EUR",
         "price": "110.89",
-        "url": "https://reward.cloud/products/5889b1191f979827139794a4",
+        "url": "https://example.com/products/5889b1191f979827139794a4",
         "index": 220,
         "uuid": "be4efdf8-512c-4a39-be35-207f4cf22658",
         "id": "5889b1191f979827139794a4"
@@ -6014,7 +6014,7 @@
         },
         "currency": "EUR",
         "price": "374.32",
-        "url": "https://reward.cloud/products/5889b119a74437677f433a10",
+        "url": "https://example.com/products/5889b119a74437677f433a10",
         "index": 221,
         "uuid": "ebba1590-74f5-4934-88de-10d97ea81b19",
         "id": "5889b119a74437677f433a10"
@@ -6049,7 +6049,7 @@
         },
         "currency": "GBP",
         "price": "185.26",
-        "url": "https://reward.cloud/products/5889b119ece87cf761d76b69",
+        "url": "https://example.com/products/5889b119ece87cf761d76b69",
         "index": 222,
         "uuid": "cb3bed6e-276a-4f52-95ae-f523c7548b91",
         "id": "5889b119ece87cf761d76b69"
@@ -6084,7 +6084,7 @@
         },
         "currency": "EUR",
         "price": "355.82",
-        "url": "https://reward.cloud/products/5889b1193815535cb133cebe",
+        "url": "https://example.com/products/5889b1193815535cb133cebe",
         "index": 223,
         "uuid": "f03eeb9b-4e72-4c77-98ad-92b91eba7908",
         "id": "5889b1193815535cb133cebe"
@@ -6119,7 +6119,7 @@
         },
         "currency": "GBP",
         "price": "78.41",
-        "url": "https://reward.cloud/products/5889b11936a1d452a6414f6d",
+        "url": "https://example.com/products/5889b11936a1d452a6414f6d",
         "index": 224,
         "uuid": "a3ccb3c1-3f65-4421-8921-fe9bc371a476",
         "id": "5889b11936a1d452a6414f6d"
@@ -6154,7 +6154,7 @@
         },
         "currency": "USD",
         "price": "324.47",
-        "url": "https://reward.cloud/products/5889b119da74631952ab270b",
+        "url": "https://example.com/products/5889b119da74631952ab270b",
         "index": 225,
         "uuid": "5e0dc064-58a2-47e2-9d2a-ded880fb8ede",
         "id": "5889b119da74631952ab270b"
@@ -6189,7 +6189,7 @@
         },
         "currency": "GBP",
         "price": "99.65",
-        "url": "https://reward.cloud/products/5889b119b54a2ac696a34a39",
+        "url": "https://example.com/products/5889b119b54a2ac696a34a39",
         "index": 226,
         "uuid": "e09cf84f-f84a-4bac-bd82-1c2bd491fc35",
         "id": "5889b119b54a2ac696a34a39"
@@ -6224,7 +6224,7 @@
         },
         "currency": "EUR",
         "price": "87.71",
-        "url": "https://reward.cloud/products/5889b119347b8aa2a42e37b1",
+        "url": "https://example.com/products/5889b119347b8aa2a42e37b1",
         "index": 227,
         "uuid": "a87ba539-e38a-42c5-bb56-fe442c6a5932",
         "id": "5889b119347b8aa2a42e37b1"
@@ -6259,7 +6259,7 @@
         },
         "currency": "EUR",
         "price": "124.77",
-        "url": "https://reward.cloud/products/5889b11983250e860d6a059b",
+        "url": "https://example.com/products/5889b11983250e860d6a059b",
         "index": 228,
         "uuid": "e272613e-a99a-43b9-902d-b56d7c920d7e",
         "id": "5889b11983250e860d6a059b"
@@ -6294,7 +6294,7 @@
         },
         "currency": "EUR",
         "price": "189.34",
-        "url": "https://reward.cloud/products/5889b1193ec04d309a67efb2",
+        "url": "https://example.com/products/5889b1193ec04d309a67efb2",
         "index": 229,
         "uuid": "eb11a2da-231f-466d-8bef-97c05bf8902b",
         "id": "5889b1193ec04d309a67efb2"
@@ -6329,7 +6329,7 @@
         },
         "currency": "EUR",
         "price": "237.22",
-        "url": "https://reward.cloud/products/5889b119eb4813bace0f009a",
+        "url": "https://example.com/products/5889b119eb4813bace0f009a",
         "index": 230,
         "uuid": "c8091999-14f9-4ae2-864f-6ba9f050c1ff",
         "id": "5889b119eb4813bace0f009a"
@@ -6364,7 +6364,7 @@
         },
         "currency": "EUR",
         "price": "21.16",
-        "url": "https://reward.cloud/products/5889b1190507251829bfc191",
+        "url": "https://example.com/products/5889b1190507251829bfc191",
         "index": 231,
         "uuid": "baa0dcad-951f-4c58-850c-536f7ad39b8e",
         "id": "5889b1190507251829bfc191"
@@ -6399,7 +6399,7 @@
         },
         "currency": "GBP",
         "price": "60.03",
-        "url": "https://reward.cloud/products/5889b119929f54bee369b685",
+        "url": "https://example.com/products/5889b119929f54bee369b685",
         "index": 232,
         "uuid": "791426be-2c91-4b49-b31a-7cad04699552",
         "id": "5889b119929f54bee369b685"
@@ -6434,7 +6434,7 @@
         },
         "currency": "USD",
         "price": "125.43",
-        "url": "https://reward.cloud/products/5889b119c937dfbfcec64b15",
+        "url": "https://example.com/products/5889b119c937dfbfcec64b15",
         "index": 233,
         "uuid": "e5587067-7d70-40d5-ac52-48edeac68781",
         "id": "5889b119c937dfbfcec64b15"
@@ -6469,7 +6469,7 @@
         },
         "currency": "USD",
         "price": "223.16",
-        "url": "https://reward.cloud/products/5889b11920c53b0e7baa83fa",
+        "url": "https://example.com/products/5889b11920c53b0e7baa83fa",
         "index": 234,
         "uuid": "19e71bba-159d-4d81-bc31-7ac9a5a5de98",
         "id": "5889b11920c53b0e7baa83fa"
@@ -6504,7 +6504,7 @@
         },
         "currency": "EUR",
         "price": "328.18",
-        "url": "https://reward.cloud/products/5889b1198624d3c6a424a6a3",
+        "url": "https://example.com/products/5889b1198624d3c6a424a6a3",
         "index": 235,
         "uuid": "dafab5a9-a1c2-4c00-a4e5-53b9ceda4b70",
         "id": "5889b1198624d3c6a424a6a3"
@@ -6539,7 +6539,7 @@
         },
         "currency": "EUR",
         "price": "137.91",
-        "url": "https://reward.cloud/products/5889b119cbd62cce4b88b56a",
+        "url": "https://example.com/products/5889b119cbd62cce4b88b56a",
         "index": 236,
         "uuid": "93394384-c88b-4609-bde5-00b69ca8e88a",
         "id": "5889b119cbd62cce4b88b56a"
@@ -6574,7 +6574,7 @@
         },
         "currency": "EUR",
         "price": "397.20",
-        "url": "https://reward.cloud/products/5889b119cdd522da262daba8",
+        "url": "https://example.com/products/5889b119cdd522da262daba8",
         "index": 237,
         "uuid": "0fd21cd9-b64f-4c24-ac9c-ee8eb4d9d040",
         "id": "5889b119cdd522da262daba8"
@@ -6609,7 +6609,7 @@
         },
         "currency": "GBP",
         "price": "134.52",
-        "url": "https://reward.cloud/products/5889b119ba236d9be5d8eed2",
+        "url": "https://example.com/products/5889b119ba236d9be5d8eed2",
         "index": 238,
         "uuid": "c77f4aa2-3762-43b5-ae98-1c1976970061",
         "id": "5889b119ba236d9be5d8eed2"
@@ -6644,7 +6644,7 @@
         },
         "currency": "EUR",
         "price": "172.49",
-        "url": "https://reward.cloud/products/5889b119fbfa2c1c137a17ba",
+        "url": "https://example.com/products/5889b119fbfa2c1c137a17ba",
         "index": 239,
         "uuid": "0003b298-0a78-45ef-b014-6304b7b833d7",
         "id": "5889b119fbfa2c1c137a17ba"
@@ -6679,7 +6679,7 @@
         },
         "currency": "USD",
         "price": "54.93",
-        "url": "https://reward.cloud/products/5889b119f3e6122274dfa9c3",
+        "url": "https://example.com/products/5889b119f3e6122274dfa9c3",
         "index": 240,
         "uuid": "71e55ca0-fbe2-435c-b2db-8c0790e3bef3",
         "id": "5889b119f3e6122274dfa9c3"
@@ -6714,7 +6714,7 @@
         },
         "currency": "EUR",
         "price": "359.35",
-        "url": "https://reward.cloud/products/5889b1197a57638cf5e20a3a",
+        "url": "https://example.com/products/5889b1197a57638cf5e20a3a",
         "index": 241,
         "uuid": "6703013e-c498-4d57-adb3-18ff196210ba",
         "id": "5889b1197a57638cf5e20a3a"
@@ -6749,7 +6749,7 @@
         },
         "currency": "EUR",
         "price": "295.38",
-        "url": "https://reward.cloud/products/5889b119230aafdbfe0fdc75",
+        "url": "https://example.com/products/5889b119230aafdbfe0fdc75",
         "index": 242,
         "uuid": "a4626d90-7fe9-4e8d-9a11-176d2390f95f",
         "id": "5889b119230aafdbfe0fdc75"
@@ -6784,7 +6784,7 @@
         },
         "currency": "EUR",
         "price": "396.59",
-        "url": "https://reward.cloud/products/5889b1196db98dfee4f61d7c",
+        "url": "https://example.com/products/5889b1196db98dfee4f61d7c",
         "index": 243,
         "uuid": "5bdb0464-faf7-4989-96fb-8366147e16a4",
         "id": "5889b1196db98dfee4f61d7c"
@@ -6819,7 +6819,7 @@
         },
         "currency": "GBP",
         "price": "227.71",
-        "url": "https://reward.cloud/products/5889b119b1549d2eaaac6edb",
+        "url": "https://example.com/products/5889b119b1549d2eaaac6edb",
         "index": 244,
         "uuid": "c8d08498-60a4-4c37-b35d-c4c977f425b5",
         "id": "5889b119b1549d2eaaac6edb"
@@ -6854,7 +6854,7 @@
         },
         "currency": "GBP",
         "price": "115.60",
-        "url": "https://reward.cloud/products/5889b119a6de6aea9121be8a",
+        "url": "https://example.com/products/5889b119a6de6aea9121be8a",
         "index": 245,
         "uuid": "3bbe1cce-a160-4947-98c3-343544f840fb",
         "id": "5889b119a6de6aea9121be8a"
@@ -6889,7 +6889,7 @@
         },
         "currency": "EUR",
         "price": "280.39",
-        "url": "https://reward.cloud/products/5889b119d6d20e51988132f8",
+        "url": "https://example.com/products/5889b119d6d20e51988132f8",
         "index": 246,
         "uuid": "cd554390-b5d9-470b-9760-590c0a86df05",
         "id": "5889b119d6d20e51988132f8"
@@ -6924,7 +6924,7 @@
         },
         "currency": "GBP",
         "price": "65.74",
-        "url": "https://reward.cloud/products/5889b1195aa66a83d9bd3206",
+        "url": "https://example.com/products/5889b1195aa66a83d9bd3206",
         "index": 247,
         "uuid": "705b551a-6dbf-47de-bf1c-851e5770b3c2",
         "id": "5889b1195aa66a83d9bd3206"
@@ -6959,7 +6959,7 @@
         },
         "currency": "GBP",
         "price": "351.65",
-        "url": "https://reward.cloud/products/5889b11961fa9941add9c902",
+        "url": "https://example.com/products/5889b11961fa9941add9c902",
         "index": 248,
         "uuid": "af4eb2fd-2534-4764-b4f3-684f06842b57",
         "id": "5889b11961fa9941add9c902"
@@ -6994,7 +6994,7 @@
         },
         "currency": "USD",
         "price": "353.22",
-        "url": "https://reward.cloud/products/5889b11982bb8f685b413fda",
+        "url": "https://example.com/products/5889b11982bb8f685b413fda",
         "index": 249,
         "uuid": "400b2f6f-e344-49a3-9e38-ac0f84ca5f91",
         "id": "5889b11982bb8f685b413fda"
@@ -7029,7 +7029,7 @@
         },
         "currency": "EUR",
         "price": "387.60",
-        "url": "https://reward.cloud/products/5889b136d115564b6540564a",
+        "url": "https://example.com/products/5889b136d115564b6540564a",
         "index": 265,
         "uuid": "a2f710b8-3f2d-4df6-883d-3563162a7f2b",
         "id": "5889b136d115564b6540564a"
@@ -7064,7 +7064,7 @@
         },
         "currency": "GBP",
         "price": "792.88",
-        "url": "https://reward.cloud/products/5889b1369778943eca44cffc",
+        "url": "https://example.com/products/5889b1369778943eca44cffc",
         "index": 266,
         "uuid": "18f37754-9c3c-41a4-9da0-d9ba132f2a52",
         "id": "5889b1369778943eca44cffc"
@@ -7099,7 +7099,7 @@
         },
         "currency": "USD",
         "price": "568.65",
-        "url": "https://reward.cloud/products/5889b1363c32eae26ad31c7a",
+        "url": "https://example.com/products/5889b1363c32eae26ad31c7a",
         "index": 267,
         "uuid": "cee7bb0b-e761-4417-9f42-2028ec5f7383",
         "id": "5889b1363c32eae26ad31c7a"
@@ -7134,7 +7134,7 @@
         },
         "currency": "EUR",
         "price": "1072.83",
-        "url": "https://reward.cloud/products/5889b1364e32cc5d685db430",
+        "url": "https://example.com/products/5889b1364e32cc5d685db430",
         "index": 268,
         "uuid": "1031f809-aeda-4cf1-a6a6-3fc19c7a0486",
         "id": "5889b1364e32cc5d685db430"
@@ -7169,7 +7169,7 @@
         },
         "currency": "GBP",
         "price": "451.44",
-        "url": "https://reward.cloud/products/5889b1363c37423f07ff1af0",
+        "url": "https://example.com/products/5889b1363c37423f07ff1af0",
         "index": 269,
         "uuid": "ea7b2e11-6b3a-4d78-bcbd-3c47a54cf305",
         "id": "5889b1363c37423f07ff1af0"
@@ -7204,7 +7204,7 @@
         },
         "currency": "GBP",
         "price": "924.05",
-        "url": "https://reward.cloud/products/5889b136cdd96de399e89a93",
+        "url": "https://example.com/products/5889b136cdd96de399e89a93",
         "index": 270,
         "uuid": "2aba0487-2a04-4e36-bc80-3f96ee470935",
         "id": "5889b136cdd96de399e89a93"
@@ -7239,7 +7239,7 @@
         },
         "currency": "EUR",
         "price": "655.96",
-        "url": "https://reward.cloud/products/5889b1363ec8ef393dd8ff2e",
+        "url": "https://example.com/products/5889b1363ec8ef393dd8ff2e",
         "index": 271,
         "uuid": "19a053c4-857c-4ce5-9581-ad2e90a86a15",
         "id": "5889b1363ec8ef393dd8ff2e"
@@ -7274,7 +7274,7 @@
         },
         "currency": "USD",
         "price": "985.59",
-        "url": "https://reward.cloud/products/5889b136576bcf18ccd50cc5",
+        "url": "https://example.com/products/5889b136576bcf18ccd50cc5",
         "index": 272,
         "uuid": "4696ba9f-6160-4a60-ae0e-536c62fb5b88",
         "id": "5889b136576bcf18ccd50cc5"
@@ -7309,7 +7309,7 @@
         },
         "currency": "USD",
         "price": "581.67",
-        "url": "https://reward.cloud/products/5889b136ecbfb08b2e1439cc",
+        "url": "https://example.com/products/5889b136ecbfb08b2e1439cc",
         "index": 273,
         "uuid": "b116f8fa-5047-470c-bc13-c8b8d5fc76bf",
         "id": "5889b136ecbfb08b2e1439cc"
@@ -7344,7 +7344,7 @@
         },
         "currency": "USD",
         "price": "715.72",
-        "url": "https://reward.cloud/products/5889b1364a4a4a597bf22e34",
+        "url": "https://example.com/products/5889b1364a4a4a597bf22e34",
         "index": 274,
         "uuid": "fcd5f6e7-bfdc-42ac-a3e4-8b5b3926e957",
         "id": "5889b1364a4a4a597bf22e34"
@@ -7379,7 +7379,7 @@
         },
         "currency": "GBP",
         "price": "439.93",
-        "url": "https://reward.cloud/products/5889b13683738fc58d056d5a",
+        "url": "https://example.com/products/5889b13683738fc58d056d5a",
         "index": 275,
         "uuid": "bd85c1f1-65fb-464e-90ec-1a66e58e493d",
         "id": "5889b13683738fc58d056d5a"
@@ -7414,7 +7414,7 @@
         },
         "currency": "GBP",
         "price": "153.59",
-        "url": "https://reward.cloud/products/5889b136b432db1e865b541b",
+        "url": "https://example.com/products/5889b136b432db1e865b541b",
         "index": 276,
         "uuid": "c986bc4b-02cc-40f8-a44d-4e58cef79ac2",
         "id": "5889b136b432db1e865b541b"
@@ -7449,7 +7449,7 @@
         },
         "currency": "GBP",
         "price": "224.55",
-        "url": "https://reward.cloud/products/5889b136c77964fed6ff2f0d",
+        "url": "https://example.com/products/5889b136c77964fed6ff2f0d",
         "index": 277,
         "uuid": "93801b73-290a-4939-8cdf-a7a9ec91f8b1",
         "id": "5889b136c77964fed6ff2f0d"
@@ -7484,7 +7484,7 @@
         },
         "currency": "USD",
         "price": "963.32",
-        "url": "https://reward.cloud/products/5889b13642d2fc5c29a19d0f",
+        "url": "https://example.com/products/5889b13642d2fc5c29a19d0f",
         "index": 278,
         "uuid": "3758dbab-2ea1-46d6-8032-0c56a2f8f026",
         "id": "5889b13642d2fc5c29a19d0f"
@@ -7519,7 +7519,7 @@
         },
         "currency": "USD",
         "price": "94.96",
-        "url": "https://reward.cloud/products/5889b136e07ccee8424e97d9",
+        "url": "https://example.com/products/5889b136e07ccee8424e97d9",
         "index": 279,
         "uuid": "e634cc29-2360-4f78-9824-159d9d6df22e",
         "id": "5889b136e07ccee8424e97d9"
@@ -7554,7 +7554,7 @@
         },
         "currency": "EUR",
         "price": "862.10",
-        "url": "https://reward.cloud/products/5889b136f817521b96455c97",
+        "url": "https://example.com/products/5889b136f817521b96455c97",
         "index": 280,
         "uuid": "113e7698-027e-4a2d-a21a-d4b397b2eb6a",
         "id": "5889b136f817521b96455c97"
@@ -7589,7 +7589,7 @@
         },
         "currency": "GBP",
         "price": "863.42",
-        "url": "https://reward.cloud/products/5889b1363ad8b7da5c415af9",
+        "url": "https://example.com/products/5889b1363ad8b7da5c415af9",
         "index": 281,
         "uuid": "47dcc2b1-46c4-4571-9bca-bc2e5dcc9beb",
         "id": "5889b1363ad8b7da5c415af9"
@@ -7624,7 +7624,7 @@
         },
         "currency": "EUR",
         "price": "292.19",
-        "url": "https://reward.cloud/products/5889b1369b1ac62d6d6dff9f",
+        "url": "https://example.com/products/5889b1369b1ac62d6d6dff9f",
         "index": 282,
         "uuid": "ddb61805-5800-4008-8f1e-51e8c227e5d8",
         "id": "5889b1369b1ac62d6d6dff9f"
@@ -7659,7 +7659,7 @@
         },
         "currency": "USD",
         "price": "981.37",
-        "url": "https://reward.cloud/products/5889b13689ab4f63f1e4505c",
+        "url": "https://example.com/products/5889b13689ab4f63f1e4505c",
         "index": 283,
         "uuid": "62422b18-01b7-4062-b36e-da6e8b507cd9",
         "id": "5889b13689ab4f63f1e4505c"
@@ -7694,7 +7694,7 @@
         },
         "currency": "GBP",
         "price": "177.72",
-        "url": "https://reward.cloud/products/5889b136ed1e80068253f574",
+        "url": "https://example.com/products/5889b136ed1e80068253f574",
         "index": 284,
         "uuid": "232c6308-f727-4af8-8ce7-b4fbe5895d67",
         "id": "5889b136ed1e80068253f574"
@@ -7729,7 +7729,7 @@
         },
         "currency": "GBP",
         "price": "595.36",
-        "url": "https://reward.cloud/products/5889b1369b50323f5b5acfa7",
+        "url": "https://example.com/products/5889b1369b50323f5b5acfa7",
         "index": 285,
         "uuid": "5215060d-8cf4-4204-8c78-c1cdeb64e9aa",
         "id": "5889b1369b50323f5b5acfa7"
@@ -7764,7 +7764,7 @@
         },
         "currency": "USD",
         "price": "709.77",
-        "url": "https://reward.cloud/products/5889b1365f3cb5e17f0c4232",
+        "url": "https://example.com/products/5889b1365f3cb5e17f0c4232",
         "index": 286,
         "uuid": "d529171f-882b-4f10-b73b-4b5ccf798c10",
         "id": "5889b1365f3cb5e17f0c4232"
@@ -7799,7 +7799,7 @@
         },
         "currency": "EUR",
         "price": "153.25",
-        "url": "https://reward.cloud/products/5889b13661a75ed9dfe1fd54",
+        "url": "https://example.com/products/5889b13661a75ed9dfe1fd54",
         "index": 287,
         "uuid": "fe129c0e-99f9-4219-8f0e-402c08e9261c",
         "id": "5889b13661a75ed9dfe1fd54"
@@ -7834,7 +7834,7 @@
         },
         "currency": "GBP",
         "price": "990.08",
-        "url": "https://reward.cloud/products/5889b136555c66f37f5bb608",
+        "url": "https://example.com/products/5889b136555c66f37f5bb608",
         "index": 288,
         "uuid": "97ebff41-fc03-4761-8049-cbc3f387c397",
         "id": "5889b136555c66f37f5bb608"
@@ -7869,7 +7869,7 @@
         },
         "currency": "USD",
         "price": "230.90",
-        "url": "https://reward.cloud/products/5889b136c1819d0e163dd4aa",
+        "url": "https://example.com/products/5889b136c1819d0e163dd4aa",
         "index": 289,
         "uuid": "74a0bbe5-c314-4e58-a49f-994cdfc85276",
         "id": "5889b136c1819d0e163dd4aa"
@@ -7904,7 +7904,7 @@
         },
         "currency": "USD",
         "price": "367.90",
-        "url": "https://reward.cloud/products/5889b1362ea2b236850fd54c",
+        "url": "https://example.com/products/5889b1362ea2b236850fd54c",
         "index": 290,
         "uuid": "bb1234dc-b0bb-42b6-b6ac-9b064f917016",
         "id": "5889b1362ea2b236850fd54c"
@@ -7939,7 +7939,7 @@
         },
         "currency": "GBP",
         "price": "6.09",
-        "url": "https://reward.cloud/products/5889b136e48848e5967b07c5",
+        "url": "https://example.com/products/5889b136e48848e5967b07c5",
         "index": 291,
         "uuid": "f5fa73c6-9857-4bce-b8e8-ee60e52a8323",
         "id": "5889b136e48848e5967b07c5"
@@ -7974,7 +7974,7 @@
         },
         "currency": "EUR",
         "price": "751.20",
-        "url": "https://reward.cloud/products/5889b1364ecb1572a0df1c90",
+        "url": "https://example.com/products/5889b1364ecb1572a0df1c90",
         "index": 292,
         "uuid": "ac783a87-083f-4461-a81e-5620fcf8b295",
         "id": "5889b1364ecb1572a0df1c90"
@@ -8009,7 +8009,7 @@
         },
         "currency": "GBP",
         "price": "314.78",
-        "url": "https://reward.cloud/products/5889b136c8416f408322b54a",
+        "url": "https://example.com/products/5889b136c8416f408322b54a",
         "index": 293,
         "uuid": "5332043f-add4-4197-8b3b-27baea1cdb0c",
         "id": "5889b136c8416f408322b54a"
@@ -8044,7 +8044,7 @@
         },
         "currency": "USD",
         "price": "405.17",
-        "url": "https://reward.cloud/products/5889b1363a6f390d40785044",
+        "url": "https://example.com/products/5889b1363a6f390d40785044",
         "index": 294,
         "uuid": "ac017614-ff24-4c01-b0c1-7fb2ac666672",
         "id": "5889b1363a6f390d40785044"
@@ -8079,7 +8079,7 @@
         },
         "currency": "EUR",
         "price": "500.82",
-        "url": "https://reward.cloud/products/5889b13663c75bf67db22288",
+        "url": "https://example.com/products/5889b13663c75bf67db22288",
         "index": 295,
         "uuid": "c2e46aa4-8489-48d1-8766-2ab65be8cadd",
         "id": "5889b13663c75bf67db22288"
@@ -8114,7 +8114,7 @@
         },
         "currency": "EUR",
         "price": "340.81",
-        "url": "https://reward.cloud/products/5889b136132bbd460a5a1101",
+        "url": "https://example.com/products/5889b136132bbd460a5a1101",
         "index": 296,
         "uuid": "38014683-ff67-4c17-8bbd-621fa224753b",
         "id": "5889b136132bbd460a5a1101"
@@ -8149,7 +8149,7 @@
         },
         "currency": "USD",
         "price": "765.93",
-        "url": "https://reward.cloud/products/5889b13695e3e56cf3cb66db",
+        "url": "https://example.com/products/5889b13695e3e56cf3cb66db",
         "index": 297,
         "uuid": "7e30cb1c-b6c4-4d02-870e-16f72cd3df55",
         "id": "5889b13695e3e56cf3cb66db"
@@ -8184,7 +8184,7 @@
         },
         "currency": "USD",
         "price": "560.18",
-        "url": "https://reward.cloud/products/5889b136fd9b56ba4a32f029",
+        "url": "https://example.com/products/5889b136fd9b56ba4a32f029",
         "index": 298,
         "uuid": "aec15587-f7cb-483e-bb1a-b2213df99e43",
         "id": "5889b136fd9b56ba4a32f029"
@@ -8219,7 +8219,7 @@
         },
         "currency": "EUR",
         "price": "1099.21",
-        "url": "https://reward.cloud/products/5889b1365db93224505ae3b6",
+        "url": "https://example.com/products/5889b1365db93224505ae3b6",
         "index": 299,
         "uuid": "88bfe3bc-2a48-4151-9ad9-fcd65adcec68",
         "id": "5889b1365db93224505ae3b6"
@@ -8254,7 +8254,7 @@
         },
         "currency": "EUR",
         "price": "965.70",
-        "url": "https://reward.cloud/products/5889b1364a3a5afb91a99b19",
+        "url": "https://example.com/products/5889b1364a3a5afb91a99b19",
         "index": 300,
         "uuid": "a5b7c859-5008-4905-85c6-1947ed545615",
         "id": "5889b1364a3a5afb91a99b19"
@@ -8289,7 +8289,7 @@
         },
         "currency": "EUR",
         "price": "640.38",
-        "url": "https://reward.cloud/products/5889b13611af45c7a17af3a7",
+        "url": "https://example.com/products/5889b13611af45c7a17af3a7",
         "index": 301,
         "uuid": "a1eb6af5-8091-42cd-aa3b-7b99dd29d168",
         "id": "5889b13611af45c7a17af3a7"
@@ -8324,7 +8324,7 @@
         },
         "currency": "USD",
         "price": "388.73",
-        "url": "https://reward.cloud/products/5889b1363fa816005a8e9ac6",
+        "url": "https://example.com/products/5889b1363fa816005a8e9ac6",
         "index": 302,
         "uuid": "7388f828-3f39-45ec-a32b-e012c668102b",
         "id": "5889b1363fa816005a8e9ac6"
@@ -8359,7 +8359,7 @@
         },
         "currency": "USD",
         "price": "958.80",
-        "url": "https://reward.cloud/products/5889b136548ddcfe06887536",
+        "url": "https://example.com/products/5889b136548ddcfe06887536",
         "index": 303,
         "uuid": "30893037-cfd2-46a4-bc44-8294859dd1af",
         "id": "5889b136548ddcfe06887536"
@@ -8394,7 +8394,7 @@
         },
         "currency": "USD",
         "price": "416.53",
-        "url": "https://reward.cloud/products/5889b1361bb77d49488e5750",
+        "url": "https://example.com/products/5889b1361bb77d49488e5750",
         "index": 304,
         "uuid": "fe2d18d3-fe4e-496d-b940-80df4f49bd4c",
         "id": "5889b1361bb77d49488e5750"
@@ -8429,7 +8429,7 @@
         },
         "currency": "USD",
         "price": "635.17",
-        "url": "https://reward.cloud/products/5889b136792d72af797c25aa",
+        "url": "https://example.com/products/5889b136792d72af797c25aa",
         "index": 305,
         "uuid": "82d97d27-31c0-4728-970c-54b7cd0d4cde",
         "id": "5889b136792d72af797c25aa"
@@ -8464,7 +8464,7 @@
         },
         "currency": "GBP",
         "price": "945.38",
-        "url": "https://reward.cloud/products/5889b13632dcf99cb0df5c84",
+        "url": "https://example.com/products/5889b13632dcf99cb0df5c84",
         "index": 306,
         "uuid": "955f9e68-9bea-437f-b1bb-fb2a5fa02151",
         "id": "5889b13632dcf99cb0df5c84"
@@ -8499,7 +8499,7 @@
         },
         "currency": "USD",
         "price": "465.74",
-        "url": "https://reward.cloud/products/5889b136dbddbc91d4eea7d2",
+        "url": "https://example.com/products/5889b136dbddbc91d4eea7d2",
         "index": 307,
         "uuid": "b064f82f-1482-470a-a185-283b96d259c3",
         "id": "5889b136dbddbc91d4eea7d2"
@@ -8534,7 +8534,7 @@
         },
         "currency": "EUR",
         "price": "604.70",
-        "url": "https://reward.cloud/products/5889b136fa6bcc788cc6ee9e",
+        "url": "https://example.com/products/5889b136fa6bcc788cc6ee9e",
         "index": 308,
         "uuid": "f680347c-0192-4b09-a5b9-20a48d585c64",
         "id": "5889b136fa6bcc788cc6ee9e"
@@ -8569,7 +8569,7 @@
         },
         "currency": "EUR",
         "price": "1088.92",
-        "url": "https://reward.cloud/products/5889b13662b3f4108c873866",
+        "url": "https://example.com/products/5889b13662b3f4108c873866",
         "index": 309,
         "uuid": "be123c7b-cff7-4745-8e5a-277bbbd53122",
         "id": "5889b13662b3f4108c873866"
@@ -8604,7 +8604,7 @@
         },
         "currency": "EUR",
         "price": "188.16",
-        "url": "https://reward.cloud/products/5889b1366ed24ae432c4c196",
+        "url": "https://example.com/products/5889b1366ed24ae432c4c196",
         "index": 310,
         "uuid": "6f46acf5-6e7c-499f-9996-3aebd0b55d0b",
         "id": "5889b1366ed24ae432c4c196"
@@ -8639,7 +8639,7 @@
         },
         "currency": "GBP",
         "price": "866.63",
-        "url": "https://reward.cloud/products/5889b136aa9be2631407e17b",
+        "url": "https://example.com/products/5889b136aa9be2631407e17b",
         "index": 311,
         "uuid": "41dee36e-62ff-463d-a17b-8fb9468fb3ef",
         "id": "5889b136aa9be2631407e17b"
@@ -8674,7 +8674,7 @@
         },
         "currency": "EUR",
         "price": "923.97",
-        "url": "https://reward.cloud/products/5889b136e1704758df0a47b2",
+        "url": "https://example.com/products/5889b136e1704758df0a47b2",
         "index": 312,
         "uuid": "3d134fe0-b50e-4816-a0a8-e4cd949c47e3",
         "id": "5889b136e1704758df0a47b2"
@@ -8709,7 +8709,7 @@
         },
         "currency": "EUR",
         "price": "373.33",
-        "url": "https://reward.cloud/products/5889b13624dbb6b36fb38d85",
+        "url": "https://example.com/products/5889b13624dbb6b36fb38d85",
         "index": 313,
         "uuid": "7ea203f6-d6ad-4cca-85ab-d2fef8d068d8",
         "id": "5889b13624dbb6b36fb38d85"
@@ -8744,7 +8744,7 @@
         },
         "currency": "EUR",
         "price": "1096.38",
-        "url": "https://reward.cloud/products/5889b136fa13a0ce002986f1",
+        "url": "https://example.com/products/5889b136fa13a0ce002986f1",
         "index": 314,
         "uuid": "400e4150-2a97-43ad-a100-2294049f2ee6",
         "id": "5889b136fa13a0ce002986f1"
@@ -8779,7 +8779,7 @@
         },
         "currency": "USD",
         "price": "689.07",
-        "url": "https://reward.cloud/products/5889b136d6271913161ba729",
+        "url": "https://example.com/products/5889b136d6271913161ba729",
         "index": 315,
         "uuid": "7667f358-6b16-4ddf-8527-f8bc93102773",
         "id": "5889b136d6271913161ba729"
@@ -8814,7 +8814,7 @@
         },
         "currency": "USD",
         "price": "1020.94",
-        "url": "https://reward.cloud/products/5889b1365473084681ef6bc6",
+        "url": "https://example.com/products/5889b1365473084681ef6bc6",
         "index": 316,
         "uuid": "3606f333-4819-4e32-8073-2df383d9fb17",
         "id": "5889b1365473084681ef6bc6"
@@ -8849,7 +8849,7 @@
         },
         "currency": "GBP",
         "price": "402.02",
-        "url": "https://reward.cloud/products/5889b13642eb9e217ba5139e",
+        "url": "https://example.com/products/5889b13642eb9e217ba5139e",
         "index": 317,
         "uuid": "9155a2a2-e940-475c-81a1-b6665cb4d044",
         "id": "5889b13642eb9e217ba5139e"
@@ -8884,7 +8884,7 @@
         },
         "currency": "USD",
         "price": "361.87",
-        "url": "https://reward.cloud/products/5889b1364687d535e3a511b1",
+        "url": "https://example.com/products/5889b1364687d535e3a511b1",
         "index": 318,
         "uuid": "789b659e-4831-4cba-a32f-90ed946c626f",
         "id": "5889b1364687d535e3a511b1"
@@ -8919,7 +8919,7 @@
         },
         "currency": "GBP",
         "price": "547.45",
-        "url": "https://reward.cloud/products/5889b1367c448b6798d31526",
+        "url": "https://example.com/products/5889b1367c448b6798d31526",
         "index": 319,
         "uuid": "f73ca3f7-21af-4625-bb8e-ab547b1a9087",
         "id": "5889b1367c448b6798d31526"
@@ -8954,7 +8954,7 @@
         },
         "currency": "GBP",
         "price": "538.18",
-        "url": "https://reward.cloud/products/5889b136885ee51dce6b1b5a",
+        "url": "https://example.com/products/5889b136885ee51dce6b1b5a",
         "index": 320,
         "uuid": "c958f31e-416f-4b37-9a02-6f0d3ead1938",
         "id": "5889b136885ee51dce6b1b5a"
@@ -8989,7 +8989,7 @@
         },
         "currency": "EUR",
         "price": "13.65",
-        "url": "https://reward.cloud/products/5889b136f49e24e59130f690",
+        "url": "https://example.com/products/5889b136f49e24e59130f690",
         "index": 321,
         "uuid": "d17f41db-8dab-46f4-b837-8fc4f2cc8c03",
         "id": "5889b136f49e24e59130f690"
@@ -9024,7 +9024,7 @@
         },
         "currency": "USD",
         "price": "494.74",
-        "url": "https://reward.cloud/products/5889b136c64556ad982e5149",
+        "url": "https://example.com/products/5889b136c64556ad982e5149",
         "index": 322,
         "uuid": "a9efc9a9-b2d9-4cfa-a447-a163f875a71a",
         "id": "5889b136c64556ad982e5149"
@@ -9059,7 +9059,7 @@
         },
         "currency": "USD",
         "price": "729.82",
-        "url": "https://reward.cloud/products/5889b13612acbc437729b94b",
+        "url": "https://example.com/products/5889b13612acbc437729b94b",
         "index": 323,
         "uuid": "1a4234db-31d2-418b-b6f5-83256845bf62",
         "id": "5889b13612acbc437729b94b"
@@ -9094,7 +9094,7 @@
         },
         "currency": "GBP",
         "price": "660.50",
-        "url": "https://reward.cloud/products/5889b1364ba30bc3a38fbab3",
+        "url": "https://example.com/products/5889b1364ba30bc3a38fbab3",
         "index": 324,
         "uuid": "d2cf6255-4ec3-4172-920b-0fcfcaa4bb74",
         "id": "5889b1364ba30bc3a38fbab3"
@@ -9129,7 +9129,7 @@
         },
         "currency": "USD",
         "price": "121.87",
-        "url": "https://reward.cloud/products/5889b13669ffc34cbaa8f38b",
+        "url": "https://example.com/products/5889b13669ffc34cbaa8f38b",
         "index": 325,
         "uuid": "34e66191-fdd1-498f-a91d-f204194690bd",
         "id": "5889b13669ffc34cbaa8f38b"
@@ -9164,7 +9164,7 @@
         },
         "currency": "GBP",
         "price": "568.82",
-        "url": "https://reward.cloud/products/5889b1362d347993687daa5d",
+        "url": "https://example.com/products/5889b1362d347993687daa5d",
         "index": 326,
         "uuid": "0ad37679-05de-48f4-9c07-6d5d0230ec41",
         "id": "5889b1362d347993687daa5d"
@@ -9199,7 +9199,7 @@
         },
         "currency": "EUR",
         "price": "500.00",
-        "url": "https://reward.cloud/products/5889b1369ca1f2dc83c60192",
+        "url": "https://example.com/products/5889b1369ca1f2dc83c60192",
         "index": 327,
         "uuid": "b42be30c-c5e6-4f27-979d-b791526e30f2",
         "id": "5889b1369ca1f2dc83c60192"
@@ -9234,7 +9234,7 @@
         },
         "currency": "USD",
         "price": "1040.37",
-        "url": "https://reward.cloud/products/5889b1366a848ed504cb88e9",
+        "url": "https://example.com/products/5889b1366a848ed504cb88e9",
         "index": 328,
         "uuid": "b9e18bd0-1c05-4743-a792-0f7785103039",
         "id": "5889b1366a848ed504cb88e9"
@@ -9269,7 +9269,7 @@
         },
         "currency": "USD",
         "price": "749.07",
-        "url": "https://reward.cloud/products/5889b136186981a9545ff239",
+        "url": "https://example.com/products/5889b136186981a9545ff239",
         "index": 329,
         "uuid": "1fc6b9e0-cdf4-4f22-9d8c-1ece7e792b83",
         "id": "5889b136186981a9545ff239"
@@ -9304,7 +9304,7 @@
         },
         "currency": "EUR",
         "price": "1075.90",
-        "url": "https://reward.cloud/products/5889b136c6ec2fd68f72c4d0",
+        "url": "https://example.com/products/5889b136c6ec2fd68f72c4d0",
         "index": 330,
         "uuid": "5c2702ce-02ef-4206-be1d-1a839f173a73",
         "id": "5889b136c6ec2fd68f72c4d0"
@@ -9339,7 +9339,7 @@
         },
         "currency": "GBP",
         "price": "161.53",
-        "url": "https://reward.cloud/products/5889b13678caacd1656625ec",
+        "url": "https://example.com/products/5889b13678caacd1656625ec",
         "index": 331,
         "uuid": "0a6e122b-84a6-4e65-aa6b-f710b4c06f58",
         "id": "5889b13678caacd1656625ec"
@@ -9374,7 +9374,7 @@
         },
         "currency": "USD",
         "price": "106.15",
-        "url": "https://reward.cloud/products/5889b136961cb0a5142a2d46",
+        "url": "https://example.com/products/5889b136961cb0a5142a2d46",
         "index": 332,
         "uuid": "af148ca4-c477-47a5-94f1-2a569f52055a",
         "id": "5889b136961cb0a5142a2d46"
@@ -9409,7 +9409,7 @@
         },
         "currency": "EUR",
         "price": "379.05",
-        "url": "https://reward.cloud/products/5889b13638be85f14318a9e0",
+        "url": "https://example.com/products/5889b13638be85f14318a9e0",
         "index": 333,
         "uuid": "b3b76a3e-8a0c-4244-8233-b4f4fc7c8516",
         "id": "5889b13638be85f14318a9e0"
@@ -9444,7 +9444,7 @@
         },
         "currency": "USD",
         "price": "941.84",
-        "url": "https://reward.cloud/products/5889b1360849ad625c173013",
+        "url": "https://example.com/products/5889b1360849ad625c173013",
         "index": 334,
         "uuid": "b248b334-eab2-4a89-9d90-768d855ce6c3",
         "id": "5889b1360849ad625c173013"
@@ -9479,7 +9479,7 @@
         },
         "currency": "USD",
         "price": "489.99",
-        "url": "https://reward.cloud/products/5889b1362db64e907feccb03",
+        "url": "https://example.com/products/5889b1362db64e907feccb03",
         "index": 335,
         "uuid": "5c33939a-2c14-49af-bcda-0c1b5a46b6b2",
         "id": "5889b1362db64e907feccb03"
@@ -9514,7 +9514,7 @@
         },
         "currency": "EUR",
         "price": "1004.21",
-        "url": "https://reward.cloud/products/5889b1368040689105d9964e",
+        "url": "https://example.com/products/5889b1368040689105d9964e",
         "index": 336,
         "uuid": "f973beda-2c9f-4838-8e1e-d10f031a541f",
         "id": "5889b1368040689105d9964e"
@@ -9549,7 +9549,7 @@
         },
         "currency": "GBP",
         "price": "807.22",
-        "url": "https://reward.cloud/products/5889b136e74aa3874681e348",
+        "url": "https://example.com/products/5889b136e74aa3874681e348",
         "index": 337,
         "uuid": "2771fa57-08c5-4ac5-89bf-7f72f6a3b5d6",
         "id": "5889b136e74aa3874681e348"
@@ -9584,7 +9584,7 @@
         },
         "currency": "GBP",
         "price": "711.48",
-        "url": "https://reward.cloud/products/5889b136a8c41ed534f3290d",
+        "url": "https://example.com/products/5889b136a8c41ed534f3290d",
         "index": 338,
         "uuid": "baa797b5-9bce-463b-8167-723a5b0227ce",
         "id": "5889b136a8c41ed534f3290d"
@@ -9619,7 +9619,7 @@
         },
         "currency": "EUR",
         "price": "268.60",
-        "url": "https://reward.cloud/products/5889b136852f2d105629148d",
+        "url": "https://example.com/products/5889b136852f2d105629148d",
         "index": 339,
         "uuid": "9a08b83a-4f93-4783-91f0-0f2d10459d7e",
         "id": "5889b136852f2d105629148d"
@@ -9654,7 +9654,7 @@
         },
         "currency": "EUR",
         "price": "1000.11",
-        "url": "https://reward.cloud/products/5889b1363670180a141319ac",
+        "url": "https://example.com/products/5889b1363670180a141319ac",
         "index": 340,
         "uuid": "0a0793a1-36bd-4edb-8c08-43db2a262c8e",
         "id": "5889b1363670180a141319ac"
@@ -9689,7 +9689,7 @@
         },
         "currency": "USD",
         "price": "704.84",
-        "url": "https://reward.cloud/products/5889b13690a4c702c33d045c",
+        "url": "https://example.com/products/5889b13690a4c702c33d045c",
         "index": 341,
         "uuid": "ee15a401-e60b-45a4-9fa3-ef1218e28841",
         "id": "5889b13690a4c702c33d045c"
@@ -9724,7 +9724,7 @@
         },
         "currency": "EUR",
         "price": "493.86",
-        "url": "https://reward.cloud/products/5889b136174dcab2b1f6e5a0",
+        "url": "https://example.com/products/5889b136174dcab2b1f6e5a0",
         "index": 342,
         "uuid": "499a837e-517d-4ecb-b92c-2f90d22eec27",
         "id": "5889b136174dcab2b1f6e5a0"
@@ -9759,7 +9759,7 @@
         },
         "currency": "GBP",
         "price": "956.27",
-        "url": "https://reward.cloud/products/5889b137332eedd657657958",
+        "url": "https://example.com/products/5889b137332eedd657657958",
         "index": 343,
         "uuid": "b65289e0-4227-4e9c-8352-01b7b2f7b886",
         "id": "5889b137332eedd657657958"
@@ -9794,7 +9794,7 @@
         },
         "currency": "USD",
         "price": "126.74",
-        "url": "https://reward.cloud/products/5889b137aed46aaf22fbb19b",
+        "url": "https://example.com/products/5889b137aed46aaf22fbb19b",
         "index": 344,
         "uuid": "b7cec46a-e079-4368-ae9a-58deabd54449",
         "id": "5889b137aed46aaf22fbb19b"
@@ -9829,7 +9829,7 @@
         },
         "currency": "GBP",
         "price": "169.33",
-        "url": "https://reward.cloud/products/5889b154de4a376d9c56f485",
+        "url": "https://example.com/products/5889b154de4a376d9c56f485",
         "index": 357,
         "uuid": "3ad0dc11-351c-46e8-ae58-2839d489a34d",
         "id": "5889b154de4a376d9c56f485"
@@ -9864,7 +9864,7 @@
         },
         "currency": "USD",
         "price": "981.62",
-        "url": "https://reward.cloud/products/5889b15460e38cdfee19a7bf",
+        "url": "https://example.com/products/5889b15460e38cdfee19a7bf",
         "index": 358,
         "uuid": "4f7aba50-e3b3-4054-af0d-53bf3e8bedd8",
         "id": "5889b15460e38cdfee19a7bf"
@@ -9899,7 +9899,7 @@
         },
         "currency": "EUR",
         "price": "1070.02",
-        "url": "https://reward.cloud/products/5889b1541718bfe1bee595d8",
+        "url": "https://example.com/products/5889b1541718bfe1bee595d8",
         "index": 359,
         "uuid": "2fa4faec-13a2-4abe-8d40-a01e0f654d34",
         "id": "5889b1541718bfe1bee595d8"
@@ -9934,7 +9934,7 @@
         },
         "currency": "USD",
         "price": "1090.30",
-        "url": "https://reward.cloud/products/5889b154420003bdf9c2d678",
+        "url": "https://example.com/products/5889b154420003bdf9c2d678",
         "index": 360,
         "uuid": "485843b1-4ca9-427a-8700-5201d1881b55",
         "id": "5889b154420003bdf9c2d678"
@@ -9969,7 +9969,7 @@
         },
         "currency": "EUR",
         "price": "610.22",
-        "url": "https://reward.cloud/products/5889b1543722cc77a44303e0",
+        "url": "https://example.com/products/5889b1543722cc77a44303e0",
         "index": 361,
         "uuid": "1c628820-2782-40c2-b9f5-98f5e3dce072",
         "id": "5889b1543722cc77a44303e0"
@@ -10004,7 +10004,7 @@
         },
         "currency": "GBP",
         "price": "440.35",
-        "url": "https://reward.cloud/products/5889b15437cdae860a31cb79",
+        "url": "https://example.com/products/5889b15437cdae860a31cb79",
         "index": 362,
         "uuid": "fff2093d-4752-4d25-8c65-0d2500d112a8",
         "id": "5889b15437cdae860a31cb79"
@@ -10039,7 +10039,7 @@
         },
         "currency": "USD",
         "price": "773.68",
-        "url": "https://reward.cloud/products/5889b1544f12ec83fb3c3fdb",
+        "url": "https://example.com/products/5889b1544f12ec83fb3c3fdb",
         "index": 363,
         "uuid": "cdefdd62-d462-4ffe-9329-d125c21d295e",
         "id": "5889b1544f12ec83fb3c3fdb"
@@ -10074,7 +10074,7 @@
         },
         "currency": "GBP",
         "price": "175.07",
-        "url": "https://reward.cloud/products/5889b154cb5df7cfacf12211",
+        "url": "https://example.com/products/5889b154cb5df7cfacf12211",
         "index": 364,
         "uuid": "de521f4b-6011-4e8a-8857-0a4aa05c35b4",
         "id": "5889b154cb5df7cfacf12211"
@@ -10109,7 +10109,7 @@
         },
         "currency": "USD",
         "price": "412.67",
-        "url": "https://reward.cloud/products/5889b1544c5b7863d3ac1c58",
+        "url": "https://example.com/products/5889b1544c5b7863d3ac1c58",
         "index": 365,
         "uuid": "e152f3b3-8162-4058-ae86-dc51c7b54a5c",
         "id": "5889b1544c5b7863d3ac1c58"
@@ -10144,7 +10144,7 @@
         },
         "currency": "GBP",
         "price": "575.51",
-        "url": "https://reward.cloud/products/5889b15436e72c5d0515089b",
+        "url": "https://example.com/products/5889b15436e72c5d0515089b",
         "index": 366,
         "uuid": "b8732dc9-ad03-4570-9b28-1f426f3c99bd",
         "id": "5889b15436e72c5d0515089b"
@@ -10179,7 +10179,7 @@
         },
         "currency": "GBP",
         "price": "237.91",
-        "url": "https://reward.cloud/products/5889b15463d3e6ce682e1d06",
+        "url": "https://example.com/products/5889b15463d3e6ce682e1d06",
         "index": 367,
         "uuid": "1d090b32-2656-4a13-b6f4-c9cfbb1df7cb",
         "id": "5889b15463d3e6ce682e1d06"
@@ -10214,7 +10214,7 @@
         },
         "currency": "USD",
         "price": "1014.97",
-        "url": "https://reward.cloud/products/5889b154fcdf321cc6a92ae5",
+        "url": "https://example.com/products/5889b154fcdf321cc6a92ae5",
         "index": 368,
         "uuid": "aa1c0fd0-a3c7-4e1d-807c-152b31ccfffd",
         "id": "5889b154fcdf321cc6a92ae5"
@@ -10249,7 +10249,7 @@
         },
         "currency": "USD",
         "price": "716.56",
-        "url": "https://reward.cloud/products/5889b154d7a41d294ed534b9",
+        "url": "https://example.com/products/5889b154d7a41d294ed534b9",
         "index": 369,
         "uuid": "c6155d92-6877-4a31-afd2-621b1c03b605",
         "id": "5889b154d7a41d294ed534b9"
@@ -10284,7 +10284,7 @@
         },
         "currency": "GBP",
         "price": "612.82",
-        "url": "https://reward.cloud/products/5889b154545944b3635cfdd3",
+        "url": "https://example.com/products/5889b154545944b3635cfdd3",
         "index": 370,
         "uuid": "eab4f575-914f-4f5d-afe3-c820215b6bae",
         "id": "5889b154545944b3635cfdd3"
@@ -10319,7 +10319,7 @@
         },
         "currency": "EUR",
         "price": "132.56",
-        "url": "https://reward.cloud/products/5889b154328c9e2f8cca1f71",
+        "url": "https://example.com/products/5889b154328c9e2f8cca1f71",
         "index": 371,
         "uuid": "0d925b46-0f8f-422c-84ca-da0beec17361",
         "id": "5889b154328c9e2f8cca1f71"
@@ -10354,7 +10354,7 @@
         },
         "currency": "EUR",
         "price": "565.85",
-        "url": "https://reward.cloud/products/5889b1540a38669500eaa3d2",
+        "url": "https://example.com/products/5889b1540a38669500eaa3d2",
         "index": 372,
         "uuid": "82e5b2a3-eacc-4142-b42d-09ddaaac33bb",
         "id": "5889b1540a38669500eaa3d2"
@@ -10389,7 +10389,7 @@
         },
         "currency": "GBP",
         "price": "985.88",
-        "url": "https://reward.cloud/products/5889b154d228f49267c34c07",
+        "url": "https://example.com/products/5889b154d228f49267c34c07",
         "index": 373,
         "uuid": "12c4c85d-c348-4f99-9cbf-6a050810affc",
         "id": "5889b154d228f49267c34c07"
@@ -10424,7 +10424,7 @@
         },
         "currency": "GBP",
         "price": "964.28",
-        "url": "https://reward.cloud/products/5889b154dc42891734db1be6",
+        "url": "https://example.com/products/5889b154dc42891734db1be6",
         "index": 374,
         "uuid": "46102695-2193-458b-8bfc-249df57aada6",
         "id": "5889b154dc42891734db1be6"
@@ -10459,7 +10459,7 @@
         },
         "currency": "USD",
         "price": "874.29",
-        "url": "https://reward.cloud/products/5889b154644b2eaf61712e94",
+        "url": "https://example.com/products/5889b154644b2eaf61712e94",
         "index": 375,
         "uuid": "0a64ebe2-14b5-424e-89ac-36c3639b5327",
         "id": "5889b154644b2eaf61712e94"
@@ -10494,7 +10494,7 @@
         },
         "currency": "GBP",
         "price": "1036.94",
-        "url": "https://reward.cloud/products/5889b1544c9e3a8be0a6982f",
+        "url": "https://example.com/products/5889b1544c9e3a8be0a6982f",
         "index": 376,
         "uuid": "b2e41bc5-adc4-4b9a-8079-3bcd5e5a6ad0",
         "id": "5889b1544c9e3a8be0a6982f"
@@ -10529,7 +10529,7 @@
         },
         "currency": "GBP",
         "price": "914.11",
-        "url": "https://reward.cloud/products/5889b1547e221697d396b645",
+        "url": "https://example.com/products/5889b1547e221697d396b645",
         "index": 377,
         "uuid": "8228f5f7-ff83-4b6d-9477-fa2da26e669e",
         "id": "5889b1547e221697d396b645"
@@ -10564,7 +10564,7 @@
         },
         "currency": "EUR",
         "price": "331.08",
-        "url": "https://reward.cloud/products/5889b154e68c62284525d72a",
+        "url": "https://example.com/products/5889b154e68c62284525d72a",
         "index": 378,
         "uuid": "ba0b3f80-0211-492a-8836-8c5340e95302",
         "id": "5889b154e68c62284525d72a"
@@ -10599,7 +10599,7 @@
         },
         "currency": "USD",
         "price": "486.61",
-        "url": "https://reward.cloud/products/5889b1547aac412dcb70c743",
+        "url": "https://example.com/products/5889b1547aac412dcb70c743",
         "index": 379,
         "uuid": "2bba3f8b-7ccb-4e00-9a29-54eaef404b38",
         "id": "5889b1547aac412dcb70c743"
@@ -10634,7 +10634,7 @@
         },
         "currency": "USD",
         "price": "435.45",
-        "url": "https://reward.cloud/products/5889b154329c5874cc08ed2f",
+        "url": "https://example.com/products/5889b154329c5874cc08ed2f",
         "index": 380,
         "uuid": "a95dfad2-cc61-4326-a87a-b9df9f0486f0",
         "id": "5889b154329c5874cc08ed2f"
@@ -10669,7 +10669,7 @@
         },
         "currency": "GBP",
         "price": "985.45",
-        "url": "https://reward.cloud/products/5889b154a26a245feaf1321d",
+        "url": "https://example.com/products/5889b154a26a245feaf1321d",
         "index": 381,
         "uuid": "517325c8-1d9a-40c1-b94f-240d030d8ab8",
         "id": "5889b154a26a245feaf1321d"
@@ -10704,7 +10704,7 @@
         },
         "currency": "GBP",
         "price": "901.49",
-        "url": "https://reward.cloud/products/5889b154c6c256efb86dcfec",
+        "url": "https://example.com/products/5889b154c6c256efb86dcfec",
         "index": 382,
         "uuid": "970cf505-f4c1-47a8-aa62-ba5ded68e921",
         "id": "5889b154c6c256efb86dcfec"
@@ -10739,7 +10739,7 @@
         },
         "currency": "USD",
         "price": "671.90",
-        "url": "https://reward.cloud/products/5889b15455ef98dfec2226b7",
+        "url": "https://example.com/products/5889b15455ef98dfec2226b7",
         "index": 383,
         "uuid": "7b897ef6-b886-4343-b5e6-fced2a37c831",
         "id": "5889b15455ef98dfec2226b7"
@@ -10774,7 +10774,7 @@
         },
         "currency": "EUR",
         "price": "1026.01",
-        "url": "https://reward.cloud/products/5889b1547ed0549168fc14e2",
+        "url": "https://example.com/products/5889b1547ed0549168fc14e2",
         "index": 384,
         "uuid": "fa806860-ede5-4f6e-ac1e-74adf174037a",
         "id": "5889b1547ed0549168fc14e2"
@@ -10809,7 +10809,7 @@
         },
         "currency": "USD",
         "price": "547.77",
-        "url": "https://reward.cloud/products/5889b154106107fb62456e71",
+        "url": "https://example.com/products/5889b154106107fb62456e71",
         "index": 385,
         "uuid": "4de16490-e18a-4b68-a7a1-4ce387ae40b4",
         "id": "5889b154106107fb62456e71"
@@ -10844,7 +10844,7 @@
         },
         "currency": "GBP",
         "price": "483.71",
-        "url": "https://reward.cloud/products/5889b15446f5b64bff077f5f",
+        "url": "https://example.com/products/5889b15446f5b64bff077f5f",
         "index": 386,
         "uuid": "661c9bb9-6101-4555-ba55-dfe4d1a7e493",
         "id": "5889b15446f5b64bff077f5f"
@@ -10879,7 +10879,7 @@
         },
         "currency": "USD",
         "price": "703.38",
-        "url": "https://reward.cloud/products/5889b154da14a6b17dd4947f",
+        "url": "https://example.com/products/5889b154da14a6b17dd4947f",
         "index": 387,
         "uuid": "70a7a26e-f7a9-4302-9007-cca7f16a00d7",
         "id": "5889b154da14a6b17dd4947f"
@@ -10914,7 +10914,7 @@
         },
         "currency": "GBP",
         "price": "411.47",
-        "url": "https://reward.cloud/products/5889b1542ec4f77242d70aae",
+        "url": "https://example.com/products/5889b1542ec4f77242d70aae",
         "index": 388,
         "uuid": "0e72128a-e9ad-4c73-9396-a6cf4b7bf0b0",
         "id": "5889b1542ec4f77242d70aae"
@@ -10949,7 +10949,7 @@
         },
         "currency": "GBP",
         "price": "647.56",
-        "url": "https://reward.cloud/products/5889b154d0119479f4f2a86e",
+        "url": "https://example.com/products/5889b154d0119479f4f2a86e",
         "index": 389,
         "uuid": "2f397979-0d1b-40d2-9489-59f65a34aa6e",
         "id": "5889b154d0119479f4f2a86e"
@@ -10984,7 +10984,7 @@
         },
         "currency": "USD",
         "price": "245.52",
-        "url": "https://reward.cloud/products/5889b154854a2d90c326136f",
+        "url": "https://example.com/products/5889b154854a2d90c326136f",
         "index": 390,
         "uuid": "d38c5595-3ac8-4d69-b829-9bdad8e4a095",
         "id": "5889b154854a2d90c326136f"
@@ -11019,7 +11019,7 @@
         },
         "currency": "USD",
         "price": "621.76",
-        "url": "https://reward.cloud/products/5889b15482955372f39b7e1f",
+        "url": "https://example.com/products/5889b15482955372f39b7e1f",
         "index": 391,
         "uuid": "730cac81-bca8-4ac0-b7fb-58d96e34c853",
         "id": "5889b15482955372f39b7e1f"
@@ -11054,7 +11054,7 @@
         },
         "currency": "EUR",
         "price": "740.24",
-        "url": "https://reward.cloud/products/5889b154108065d1181a4dae",
+        "url": "https://example.com/products/5889b154108065d1181a4dae",
         "index": 392,
         "uuid": "cef67abd-3ab3-45f5-bb2b-ba21446f9902",
         "id": "5889b154108065d1181a4dae"
@@ -11089,7 +11089,7 @@
         },
         "currency": "GBP",
         "price": "953.01",
-        "url": "https://reward.cloud/products/5889b154695a7168a98ec513",
+        "url": "https://example.com/products/5889b154695a7168a98ec513",
         "index": 393,
         "uuid": "253dc9de-38c1-4d26-93b7-44084d52324d",
         "id": "5889b154695a7168a98ec513"
@@ -11124,7 +11124,7 @@
         },
         "currency": "USD",
         "price": "1026.06",
-        "url": "https://reward.cloud/products/5889b1543c3632d7f9f8106a",
+        "url": "https://example.com/products/5889b1543c3632d7f9f8106a",
         "index": 394,
         "uuid": "d155843c-632f-4597-b308-94293ee75660",
         "id": "5889b1543c3632d7f9f8106a"
@@ -11159,7 +11159,7 @@
         },
         "currency": "USD",
         "price": "376.45",
-        "url": "https://reward.cloud/products/5889b15471b234dd9133c09e",
+        "url": "https://example.com/products/5889b15471b234dd9133c09e",
         "index": 395,
         "uuid": "32ff6d4f-872b-4341-94b3-ce79cee3d977",
         "id": "5889b15471b234dd9133c09e"
@@ -11194,7 +11194,7 @@
         },
         "currency": "USD",
         "price": "801.17",
-        "url": "https://reward.cloud/products/5889b15497252e8ac7e3fdfb",
+        "url": "https://example.com/products/5889b15497252e8ac7e3fdfb",
         "index": 396,
         "uuid": "214c8ec8-0486-4bbb-a9a6-38ccd7906134",
         "id": "5889b15497252e8ac7e3fdfb"
@@ -11229,7 +11229,7 @@
         },
         "currency": "USD",
         "price": "475.72",
-        "url": "https://reward.cloud/products/5889b15415229381df6f3646",
+        "url": "https://example.com/products/5889b15415229381df6f3646",
         "index": 397,
         "uuid": "7d24746b-f3cc-4537-b245-c6b1cd9226aa",
         "id": "5889b15415229381df6f3646"
@@ -11264,7 +11264,7 @@
         },
         "currency": "GBP",
         "price": "917.00",
-        "url": "https://reward.cloud/products/5889b154ffbe5c88f9fa5f05",
+        "url": "https://example.com/products/5889b154ffbe5c88f9fa5f05",
         "index": 398,
         "uuid": "b12f9167-81c1-49b2-84f2-50608a225559",
         "id": "5889b154ffbe5c88f9fa5f05"
@@ -11299,7 +11299,7 @@
         },
         "currency": "USD",
         "price": "65.53",
-        "url": "https://reward.cloud/products/5889b1549b3f85bf164b87c5",
+        "url": "https://example.com/products/5889b1549b3f85bf164b87c5",
         "index": 399,
         "uuid": "27f01cbb-6e8a-47f7-a126-f587d50cd037",
         "id": "5889b1549b3f85bf164b87c5"
@@ -11334,7 +11334,7 @@
         },
         "currency": "EUR",
         "price": "885.04",
-        "url": "https://reward.cloud/products/5889b154ade8da066764bab7",
+        "url": "https://example.com/products/5889b154ade8da066764bab7",
         "index": 400,
         "uuid": "66794ce2-e891-47a7-b98b-4c6c615b8751",
         "id": "5889b154ade8da066764bab7"
@@ -11369,7 +11369,7 @@
         },
         "currency": "EUR",
         "price": "530.40",
-        "url": "https://reward.cloud/products/5889b15492ca90eee8a0bede",
+        "url": "https://example.com/products/5889b15492ca90eee8a0bede",
         "index": 401,
         "uuid": "400122b6-c1fc-4292-aa63-0767ac618700",
         "id": "5889b15492ca90eee8a0bede"
@@ -11404,7 +11404,7 @@
         },
         "currency": "USD",
         "price": "147.38",
-        "url": "https://reward.cloud/products/5889b154b1244f6b73d31ba9",
+        "url": "https://example.com/products/5889b154b1244f6b73d31ba9",
         "index": 402,
         "uuid": "5e215854-3446-4a3b-90fc-8ec85280be1f",
         "id": "5889b154b1244f6b73d31ba9"
@@ -11439,7 +11439,7 @@
         },
         "currency": "USD",
         "price": "810.97",
-        "url": "https://reward.cloud/products/5889b154bb07879637d0bd8e",
+        "url": "https://example.com/products/5889b154bb07879637d0bd8e",
         "index": 403,
         "uuid": "425e90e2-4bec-4d55-84fa-926e2f9088d1",
         "id": "5889b154bb07879637d0bd8e"
@@ -11474,7 +11474,7 @@
         },
         "currency": "USD",
         "price": "470.60",
-        "url": "https://reward.cloud/products/5889b15450f62707551eb5e3",
+        "url": "https://example.com/products/5889b15450f62707551eb5e3",
         "index": 404,
         "uuid": "7d8c8c82-85cf-4a45-b8f8-ce4c15b017d2",
         "id": "5889b15450f62707551eb5e3"
@@ -11509,7 +11509,7 @@
         },
         "currency": "GBP",
         "price": "436.26",
-        "url": "https://reward.cloud/products/5889b1547b3966577fffdfc3",
+        "url": "https://example.com/products/5889b1547b3966577fffdfc3",
         "index": 405,
         "uuid": "c15d94f9-d8d2-4e93-8cd0-23a58b1f3b9a",
         "id": "5889b1547b3966577fffdfc3"
@@ -11544,7 +11544,7 @@
         },
         "currency": "EUR",
         "price": "826.92",
-        "url": "https://reward.cloud/products/5889b15477d5b69e38392402",
+        "url": "https://example.com/products/5889b15477d5b69e38392402",
         "index": 406,
         "uuid": "fa9e0d1c-83b2-43d6-a015-71e827a35cfc",
         "id": "5889b15477d5b69e38392402"
@@ -11579,7 +11579,7 @@
         },
         "currency": "GBP",
         "price": "1063.96",
-        "url": "https://reward.cloud/products/5889b154463e605a2cfa07b7",
+        "url": "https://example.com/products/5889b154463e605a2cfa07b7",
         "index": 407,
         "uuid": "0d36b014-10de-4c85-9c72-b9867abe360d",
         "id": "5889b154463e605a2cfa07b7"
@@ -11614,7 +11614,7 @@
         },
         "currency": "GBP",
         "price": "360.61",
-        "url": "https://reward.cloud/products/5889b15400a2de3acca4bb72",
+        "url": "https://example.com/products/5889b15400a2de3acca4bb72",
         "index": 408,
         "uuid": "b1499730-c860-4c30-93be-2cf04f0a6bb0",
         "id": "5889b15400a2de3acca4bb72"
@@ -11649,7 +11649,7 @@
         },
         "currency": "EUR",
         "price": "391.81",
-        "url": "https://reward.cloud/products/5889b154be5c1f4708cb54cd",
+        "url": "https://example.com/products/5889b154be5c1f4708cb54cd",
         "index": 409,
         "uuid": "fc7bb757-0f4d-4f7f-94b9-16ca99f6ac4f",
         "id": "5889b154be5c1f4708cb54cd"
@@ -11684,7 +11684,7 @@
         },
         "currency": "EUR",
         "price": "338.37",
-        "url": "https://reward.cloud/products/5889b15436be1444480d347f",
+        "url": "https://example.com/products/5889b15436be1444480d347f",
         "index": 410,
         "uuid": "662d5ab8-f4f8-4c72-b882-5b53356d58b5",
         "id": "5889b15436be1444480d347f"
@@ -11719,7 +11719,7 @@
         },
         "currency": "GBP",
         "price": "765.30",
-        "url": "https://reward.cloud/products/5889b154598a6c38da971bb2",
+        "url": "https://example.com/products/5889b154598a6c38da971bb2",
         "index": 411,
         "uuid": "4510e441-1a73-407b-a0df-05aa7c9d1d26",
         "id": "5889b154598a6c38da971bb2"
@@ -11754,7 +11754,7 @@
         },
         "currency": "EUR",
         "price": "1057.36",
-        "url": "https://reward.cloud/products/5889b1545e409e099aaff531",
+        "url": "https://example.com/products/5889b1545e409e099aaff531",
         "index": 412,
         "uuid": "acef5d6d-d182-4808-8456-590a97487fa9",
         "id": "5889b1545e409e099aaff531"
@@ -11789,7 +11789,7 @@
         },
         "currency": "USD",
         "price": "298.01",
-        "url": "https://reward.cloud/products/5889b154386913360739ad41",
+        "url": "https://example.com/products/5889b154386913360739ad41",
         "index": 413,
         "uuid": "b42a39d2-ab8b-4e99-b8bd-2b02372153e5",
         "id": "5889b154386913360739ad41"
@@ -11824,7 +11824,7 @@
         },
         "currency": "GBP",
         "price": "503.38",
-        "url": "https://reward.cloud/products/5889b154498575ebaaf3411d",
+        "url": "https://example.com/products/5889b154498575ebaaf3411d",
         "index": 414,
         "uuid": "c08749fe-93c1-4fc3-a2ec-170d20164435",
         "id": "5889b154498575ebaaf3411d"
@@ -11859,7 +11859,7 @@
         },
         "currency": "USD",
         "price": "899.86",
-        "url": "https://reward.cloud/products/5889b154e9d93d5abb826071",
+        "url": "https://example.com/products/5889b154e9d93d5abb826071",
         "index": 415,
         "uuid": "f6ba6420-aa3f-42ff-af98-5d47909fa3cd",
         "id": "5889b154e9d93d5abb826071"
@@ -11894,7 +11894,7 @@
         },
         "currency": "USD",
         "price": "336.06",
-        "url": "https://reward.cloud/products/5889b1545baed0ca071d8167",
+        "url": "https://example.com/products/5889b1545baed0ca071d8167",
         "index": 416,
         "uuid": "15eb953a-03f9-4d49-975c-2bfb0e0ac3df",
         "id": "5889b1545baed0ca071d8167"
@@ -11929,7 +11929,7 @@
         },
         "currency": "GBP",
         "price": "239.06",
-        "url": "https://reward.cloud/products/5889b154b733427c65629ff9",
+        "url": "https://example.com/products/5889b154b733427c65629ff9",
         "index": 417,
         "uuid": "253edc17-8a03-4347-9862-c6340ad3a7fa",
         "id": "5889b154b733427c65629ff9"
@@ -11964,7 +11964,7 @@
         },
         "currency": "USD",
         "price": "727.90",
-        "url": "https://reward.cloud/products/5889b154f2a4a91fb328c089",
+        "url": "https://example.com/products/5889b154f2a4a91fb328c089",
         "index": 418,
         "uuid": "09a259fb-c34a-4be1-9d66-7caa0cfbb099",
         "id": "5889b154f2a4a91fb328c089"
@@ -11999,7 +11999,7 @@
         },
         "currency": "EUR",
         "price": "790.45",
-        "url": "https://reward.cloud/products/5889b1540e3b92d1c6dd658b",
+        "url": "https://example.com/products/5889b1540e3b92d1c6dd658b",
         "index": 419,
         "uuid": "594c28d3-e6d5-4012-b366-b0fe2de80286",
         "id": "5889b1540e3b92d1c6dd658b"
@@ -12034,7 +12034,7 @@
         },
         "currency": "GBP",
         "price": "556.35",
-        "url": "https://reward.cloud/products/5889b1549123c83620a032a6",
+        "url": "https://example.com/products/5889b1549123c83620a032a6",
         "index": 420,
         "uuid": "354b46e1-9dc9-4193-bd7a-cc27425b3d4c",
         "id": "5889b1549123c83620a032a6"
@@ -12069,7 +12069,7 @@
         },
         "currency": "EUR",
         "price": "236.81",
-        "url": "https://reward.cloud/products/5889b15457e9efc1d22aaa5e",
+        "url": "https://example.com/products/5889b15457e9efc1d22aaa5e",
         "index": 421,
         "uuid": "9d542241-4897-4386-9eec-72fff5ee6c29",
         "id": "5889b15457e9efc1d22aaa5e"
@@ -12104,7 +12104,7 @@
         },
         "currency": "USD",
         "price": "293.55",
-        "url": "https://reward.cloud/products/5889b154034cfdbef95fc799",
+        "url": "https://example.com/products/5889b154034cfdbef95fc799",
         "index": 422,
         "uuid": "34ff1812-6a18-410e-bd14-278809c5cf4c",
         "id": "5889b154034cfdbef95fc799"
@@ -12139,7 +12139,7 @@
         },
         "currency": "USD",
         "price": "389.50",
-        "url": "https://reward.cloud/products/5889b15543c3c0093b415437",
+        "url": "https://example.com/products/5889b15543c3c0093b415437",
         "index": 423,
         "uuid": "47bfd4e1-543b-456e-bc09-97290aaf032f",
         "id": "5889b15543c3c0093b415437"
@@ -12174,7 +12174,7 @@
         },
         "currency": "GBP",
         "price": "751.64",
-        "url": "https://reward.cloud/products/5889b155f384ad3de437502b",
+        "url": "https://example.com/products/5889b155f384ad3de437502b",
         "index": 424,
         "uuid": "91ab4b43-1a7b-4328-adc5-43eb0896ea6a",
         "id": "5889b155f384ad3de437502b"
@@ -12209,7 +12209,7 @@
         },
         "currency": "USD",
         "price": "1026.88",
-        "url": "https://reward.cloud/products/5889b155df71a073be488224",
+        "url": "https://example.com/products/5889b155df71a073be488224",
         "index": 425,
         "uuid": "95f81a04-4e15-4dc3-9c09-15267a348ea9",
         "id": "5889b155df71a073be488224"
@@ -12244,7 +12244,7 @@
         },
         "currency": "GBP",
         "price": "566.60",
-        "url": "https://reward.cloud/products/5889b155fbd430dac958a1dd",
+        "url": "https://example.com/products/5889b155fbd430dac958a1dd",
         "index": 426,
         "uuid": "70e2b413-e4f9-419b-a9fb-0a2cbe09c2d2",
         "id": "5889b155fbd430dac958a1dd"
@@ -12279,7 +12279,7 @@
         },
         "currency": "USD",
         "price": "338.27",
-        "url": "https://reward.cloud/products/5889b155021e7719266de3b0",
+        "url": "https://example.com/products/5889b155021e7719266de3b0",
         "index": 427,
         "uuid": "ae412816-dd87-4fd7-8daf-a5df1b37831f",
         "id": "5889b155021e7719266de3b0"
@@ -12314,7 +12314,7 @@
         },
         "currency": "EUR",
         "price": "1098.80",
-        "url": "https://reward.cloud/products/5889b155fb35239b021a927c",
+        "url": "https://example.com/products/5889b155fb35239b021a927c",
         "index": 428,
         "uuid": "04dba39a-cd8e-490a-973f-7db6f5e80bd1",
         "id": "5889b155fb35239b021a927c"
@@ -12349,7 +12349,7 @@
         },
         "currency": "EUR",
         "price": "587.18",
-        "url": "https://reward.cloud/products/5889b155f9d11cebd3f74255",
+        "url": "https://example.com/products/5889b155f9d11cebd3f74255",
         "index": 429,
         "uuid": "4dd9e273-75eb-4654-8f59-d177f8e7bcb3",
         "id": "5889b155f9d11cebd3f74255"
@@ -12384,7 +12384,7 @@
         },
         "currency": "EUR",
         "price": "792.64",
-        "url": "https://reward.cloud/products/5889b155760f4bc954d65ba0",
+        "url": "https://example.com/products/5889b155760f4bc954d65ba0",
         "index": 430,
         "uuid": "81f342a6-09ab-453b-a99c-26a7cbabce90",
         "id": "5889b155760f4bc954d65ba0"
@@ -12419,7 +12419,7 @@
         },
         "currency": "GBP",
         "price": "235.26",
-        "url": "https://reward.cloud/products/5889b155780f428e3ddb63b0",
+        "url": "https://example.com/products/5889b155780f428e3ddb63b0",
         "index": 431,
         "uuid": "f207c7a1-5ea6-4911-bb3b-64dfc3a30231",
         "id": "5889b155780f428e3ddb63b0"
@@ -12454,7 +12454,7 @@
         },
         "currency": "GBP",
         "price": "633.76",
-        "url": "https://reward.cloud/products/5889b15510dd58e3c4757da9",
+        "url": "https://example.com/products/5889b15510dd58e3c4757da9",
         "index": 432,
         "uuid": "fbe553be-eb89-439b-ba13-8ada9d2168cf",
         "id": "5889b15510dd58e3c4757da9"
@@ -12489,7 +12489,7 @@
         },
         "currency": "GBP",
         "price": "817.14",
-        "url": "https://reward.cloud/products/5889b1550eec031117142173",
+        "url": "https://example.com/products/5889b1550eec031117142173",
         "index": 433,
         "uuid": "53af5437-01ac-46d4-9b8f-c3c9448cadc8",
         "id": "5889b1550eec031117142173"
@@ -12524,7 +12524,7 @@
         },
         "currency": "USD",
         "price": "516.53",
-        "url": "https://reward.cloud/products/5889b155f37be6f7545b77bc",
+        "url": "https://example.com/products/5889b155f37be6f7545b77bc",
         "index": 434,
         "uuid": "558ba155-59ea-4ba9-9381-03643c5c4097",
         "id": "5889b155f37be6f7545b77bc"
@@ -12559,7 +12559,7 @@
         },
         "currency": "EUR",
         "price": "1030.04",
-        "url": "https://reward.cloud/products/5889b1559255451c9c9c7e29",
+        "url": "https://example.com/products/5889b1559255451c9c9c7e29",
         "index": 435,
         "uuid": "2e74290e-535d-41ef-8bab-11aeb3c5b11e",
         "id": "5889b1559255451c9c9c7e29"
@@ -12594,7 +12594,7 @@
         },
         "currency": "EUR",
         "price": "100.94",
-        "url": "https://reward.cloud/products/5889b155d903b6a402f03f1a",
+        "url": "https://example.com/products/5889b155d903b6a402f03f1a",
         "index": 436,
         "uuid": "ada9a1dd-55d3-44cb-b04a-5d17c5d70e9a",
         "id": "5889b155d903b6a402f03f1a"
@@ -12629,7 +12629,7 @@
         },
         "currency": "USD",
         "price": "1001.51",
-        "url": "https://reward.cloud/products/5889b1551e87e96c6b362cc3",
+        "url": "https://example.com/products/5889b1551e87e96c6b362cc3",
         "index": 437,
         "uuid": "35c19aec-298a-47c0-8026-fb0e9212fa90",
         "id": "5889b1551e87e96c6b362cc3"
@@ -12664,7 +12664,7 @@
         },
         "currency": "EUR",
         "price": "987.26",
-        "url": "https://reward.cloud/products/5889b155b370ad6cd4e6f5bb",
+        "url": "https://example.com/products/5889b155b370ad6cd4e6f5bb",
         "index": 438,
         "uuid": "2585be0b-b32d-4a6a-9368-43e0fdf37bc5",
         "id": "5889b155b370ad6cd4e6f5bb"
@@ -12699,7 +12699,7 @@
         },
         "currency": "USD",
         "price": "848.83",
-        "url": "https://reward.cloud/products/5889b155b4c13a0b032b5c15",
+        "url": "https://example.com/products/5889b155b4c13a0b032b5c15",
         "index": 439,
         "uuid": "967015b3-b896-46fe-bbe2-a5c541ebb4b3",
         "id": "5889b155b4c13a0b032b5c15"
@@ -12734,7 +12734,7 @@
         },
         "currency": "EUR",
         "price": "128.27",
-        "url": "https://reward.cloud/products/5889b155b3f9de761dd78291",
+        "url": "https://example.com/products/5889b155b3f9de761dd78291",
         "index": 440,
         "uuid": "1954cf08-30b5-4664-a714-ef10255e56d9",
         "id": "5889b155b3f9de761dd78291"
@@ -12769,7 +12769,7 @@
         },
         "currency": "EUR",
         "price": "785.99",
-        "url": "https://reward.cloud/products/5889b155d2c09ccd79b2bdf2",
+        "url": "https://example.com/products/5889b155d2c09ccd79b2bdf2",
         "index": 441,
         "uuid": "a8e908a3-a490-45e2-8492-254ab7ebf6dd",
         "id": "5889b155d2c09ccd79b2bdf2"
@@ -12804,7 +12804,7 @@
         },
         "currency": "USD",
         "price": "885.85",
-        "url": "https://reward.cloud/products/5889b155e5c8cd24ad94f130",
+        "url": "https://example.com/products/5889b155e5c8cd24ad94f130",
         "index": 442,
         "uuid": "cf157bc3-fa91-41f2-ac25-823ac16a8891",
         "id": "5889b155e5c8cd24ad94f130"
@@ -12839,7 +12839,7 @@
         },
         "currency": "GBP",
         "price": "730.59",
-        "url": "https://reward.cloud/products/5889b1552dff64351600b09b",
+        "url": "https://example.com/products/5889b1552dff64351600b09b",
         "index": 443,
         "uuid": "c4947ab6-68ee-40d5-a77d-bd55db9fd048",
         "id": "5889b1552dff64351600b09b"
@@ -12874,7 +12874,7 @@
         },
         "currency": "GBP",
         "price": "538.06",
-        "url": "https://reward.cloud/products/5889b1555030499524069550",
+        "url": "https://example.com/products/5889b1555030499524069550",
         "index": 444,
         "uuid": "93d63c7e-ec09-4a50-a43c-d90d5828e2ec",
         "id": "5889b1555030499524069550"
@@ -12909,7 +12909,7 @@
         },
         "currency": "USD",
         "price": "765.02",
-        "url": "https://reward.cloud/products/5889b155da402aba0b4662df",
+        "url": "https://example.com/products/5889b155da402aba0b4662df",
         "index": 445,
         "uuid": "e8ecefd8-0a3e-4fc7-994a-035bb01beefd",
         "id": "5889b155da402aba0b4662df"
@@ -12944,7 +12944,7 @@
         },
         "currency": "GBP",
         "price": "271.19",
-        "url": "https://reward.cloud/products/5889b1554daf71affa18d2e9",
+        "url": "https://example.com/products/5889b1554daf71affa18d2e9",
         "index": 446,
         "uuid": "45cbc4c9-46a6-46db-bd6f-158984acbf16",
         "id": "5889b1554daf71affa18d2e9"
@@ -12979,7 +12979,7 @@
         },
         "currency": "EUR",
         "price": "660.01",
-        "url": "https://reward.cloud/products/5889b1553f64cf32b350a217",
+        "url": "https://example.com/products/5889b1553f64cf32b350a217",
         "index": 447,
         "uuid": "f74b24eb-1f6a-47b0-b6d5-cec8bdcf25fd",
         "id": "5889b1553f64cf32b350a217"
@@ -13014,7 +13014,7 @@
         },
         "currency": "EUR",
         "price": "866.90",
-        "url": "https://reward.cloud/products/5889b155febfaee032eb9423",
+        "url": "https://example.com/products/5889b155febfaee032eb9423",
         "index": 448,
         "uuid": "6ef5f30e-f9e9-41f3-be09-5f4e558700d1",
         "id": "5889b155febfaee032eb9423"
@@ -13049,7 +13049,7 @@
         },
         "currency": "USD",
         "price": "108.73",
-        "url": "https://reward.cloud/products/5889b155dee91eed18f51474",
+        "url": "https://example.com/products/5889b155dee91eed18f51474",
         "index": 449,
         "uuid": "da529dbc-4237-450b-926c-27a5432ae7dd",
         "id": "5889b155dee91eed18f51474"
@@ -13084,7 +13084,7 @@
         },
         "currency": "EUR",
         "price": "427.64",
-        "url": "https://reward.cloud/products/5889b155c9d85ee4cdd097bb",
+        "url": "https://example.com/products/5889b155c9d85ee4cdd097bb",
         "index": 450,
         "uuid": "8343e364-8278-4c41-b6d3-e4958c13f1c3",
         "id": "5889b155c9d85ee4cdd097bb"
@@ -13119,7 +13119,7 @@
         },
         "currency": "EUR",
         "price": "862.58",
-        "url": "https://reward.cloud/products/5889b1551e0b1d5376affe4e",
+        "url": "https://example.com/products/5889b1551e0b1d5376affe4e",
         "index": 451,
         "uuid": "f8ba92f2-6589-472a-9ca6-d661a68f346c",
         "id": "5889b1551e0b1d5376affe4e"
@@ -13154,7 +13154,7 @@
         },
         "currency": "USD",
         "price": "201.87",
-        "url": "https://reward.cloud/products/5889b155391121ab6f5ef28b",
+        "url": "https://example.com/products/5889b155391121ab6f5ef28b",
         "index": 452,
         "uuid": "302a980b-33e1-4e2b-8f0c-7bc05d335e4d",
         "id": "5889b155391121ab6f5ef28b"
@@ -13189,7 +13189,7 @@
         },
         "currency": "EUR",
         "price": "745.83",
-        "url": "https://reward.cloud/products/5889b155e78e8262faf5555a",
+        "url": "https://example.com/products/5889b155e78e8262faf5555a",
         "index": 453,
         "uuid": "40d54447-f5f7-4c1f-9e94-d2aed702f64f",
         "id": "5889b155e78e8262faf5555a"
@@ -13224,7 +13224,7 @@
         },
         "currency": "GBP",
         "price": "957.52",
-        "url": "https://reward.cloud/products/5889b1557c04e4e17b6b85aa",
+        "url": "https://example.com/products/5889b1557c04e4e17b6b85aa",
         "index": 454,
         "uuid": "5b02fd25-614f-46a1-891b-2fdda73390ac",
         "id": "5889b1557c04e4e17b6b85aa"
@@ -13259,7 +13259,7 @@
         },
         "currency": "EUR",
         "price": "470.01",
-        "url": "https://reward.cloud/products/5889b155153e0bab1e8fc7b7",
+        "url": "https://example.com/products/5889b155153e0bab1e8fc7b7",
         "index": 455,
         "uuid": "8c84d55c-9078-457b-990a-fc44d1aee64b",
         "id": "5889b155153e0bab1e8fc7b7"
@@ -13294,7 +13294,7 @@
         },
         "currency": "EUR",
         "price": "557.73",
-        "url": "https://reward.cloud/products/5889b1552ef8c06e0fa10775",
+        "url": "https://example.com/products/5889b1552ef8c06e0fa10775",
         "index": 456,
         "uuid": "b40a9b82-fee5-4067-813b-e90b08dd11ab",
         "id": "5889b1552ef8c06e0fa10775"
