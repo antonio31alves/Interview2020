@@ -1,7 +1,7 @@
 # Tillo Technical Test
 ## Software Engineer - PHP
 
-Using the provided [orders.json](data/orders.json) file, please complete the following tasks.
+Using the provided [orders.json](/data/orders.json) file, please complete the following tasks.
 
 1. Edit the answers.md file and in plain English, briefly describe how you would:
   * Count the total number of orders?
