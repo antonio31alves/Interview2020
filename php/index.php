@@ -1,11 +1,15 @@
 <?php
 
-# Un-comment if using composer
-# require('vendor/autoload.php');
+// Un-comment if using composer
+// require('vendor/autoload.php');
 
 function load_json($path) {
     return json_decode(file_get_contents(__DIR__ . '/' . $path), true);
 }
+
+$orders = load_json("../data/orders.json");
+
+// Start your implementation here
 
 ?>
 <!DOCTYPE html>
