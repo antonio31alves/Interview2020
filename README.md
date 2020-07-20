@@ -6,4 +6,4 @@ Please download or clone this repository and when you're done, zip it back up an
 
 > :warning: **Please do not Fork or submit PRs to this repository as they will be public.**
 
-If you're applying for one of our _backend_ Software Engineer roles, please see the README in the "php" directory. Similarly if you're applying for one of our _frontend_ Web Developer roles, please see the README in the "js" directory. Feel free to tackle both parts if you want to.
+If you're applying for one of our _backend_ Software Engineer roles, please see the [php/README.md](php/README.md) file. Similarly if you're applying for one of our _frontend_ Web Developer roles, please see the [js/README.md](js/README.md) file. Feel free to tackle both parts if you want to.

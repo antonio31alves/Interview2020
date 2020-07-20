@@ -12,8 +12,8 @@ Using the provided [orders.json](data/orders.json) file, please complete the fol
   * Sum the cost of orders that were placed in GBP?
   * Sum the cost of orders that were placed in GBP and were shipped to Essex?
 
-2. Edit the `index.php` file and implement all but the first of the above tasks in PHP.
+2. Edit the [index.php](index.php) file and implement all but the first of the above tasks in PHP.
   * Your solution should be visible in the browser when run using a local PHP server. Some CSS/formatting has been applied already.
-  * We've included a `composer.json` file should you choose to pull in some external libraries to help you but this is optional.
+  * We've included a [composer.json](composer.json) file should you choose to pull in some external libraries to help you but this is optional.
   * How you complete the tasks is up to you.
   * It shouldn't take you more than one hour to complete.
