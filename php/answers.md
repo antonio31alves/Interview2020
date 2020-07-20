@@ -1,7 +1,7 @@
 # Tillo Technical Test
 # PHP Task 1 - Answers in plain English
 
-> :info: Edit this Markdown file and in plain English, briefly describe how you would:
+> :information_source: Edit this Markdown file and in plain English, briefly describe how you would:
 
 1. Count the total number of orders?
 
