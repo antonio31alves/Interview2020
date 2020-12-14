@@ -1,5 +1,5 @@
 # Tillo Technical Test
-# PHP Task 1 - Answers in plain English
+## PHP Task 1 - Answers in plain English
 
 > :information_source: Edit this Markdown file and in plain English, briefly describe how you would:
 
